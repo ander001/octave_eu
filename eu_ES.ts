@@ -19,7 +19,7 @@
     <message>
         <location line="+1"/>
         <source>function</source>
-        <translation>función</translation>
+        <translation>funtzioa</translation>
     </message>
     <message>
         <location line="+1"/>
