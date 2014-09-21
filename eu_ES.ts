@@ -82,7 +82,7 @@
     <message>
         <location line="+4"/>
         <source>Clear All</source>
-        <translation>Limpiar todo</translation>
+        <translation>Garbitu dena</translation>
     </message>
 </context>
 <context>
