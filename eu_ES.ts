@@ -24,12 +24,12 @@
     <message>
         <location line="+1"/>
         <source>global</source>
-        <translation>global</translation>
+        <translation>orokorra</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>hidden</source>
-        <translation>oculto</translation>
+        <translation>ezkutukoa</translation>
     </message>
     <message>
         <location line="+1"/>
