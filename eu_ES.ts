@@ -1318,7 +1318,7 @@ Pulse &apos;Siguiente&apos; para crear un archivo de configuración e iniciar Oc
     <message>
         <location line="+9"/>
         <source>Current Directory: </source>
-        <translation>Directorio actual:</translation>
+        <translation>Uneko helbidea:</translation>
     </message>
     <message>
         <location line="+4"/>
