@@ -6,7 +6,7 @@
     <message>
         <location filename="../src/dialog.cc" line="+251"/>
         <source>Select All</source>
-        <translation>Seleccionar todo</translation>
+        <translation>Hautatu dena</translation>
     </message>
 </context>
 <context>
@@ -29,37 +29,37 @@
     <message>
         <location line="+1"/>
         <source>hidden</source>
-        <translation>ezkutukoa</translation>
+        <translation>ezkutua</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>inherited</source>
-        <translation>heredado</translation>
+        <translation>heredatua</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>persistent</source>
-        <translation>persistente</translation>
+        <translation>iraunkorra</translation>
     </message>
     <message>
         <location filename="../qterminal/libqterminal/QTerminal.cc" line="+65"/>
         <source>foreground</source>
-        <translation>primer plano</translation>
+        <translation>aurreko planoa</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>background</source>
-        <translation>plano de fondo</translation>
+        <translation>atzeko planoa</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>selection</source>
-        <translation>selección</translation>
+        <translation>hautapena</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>cursor</source>
-        <translation>cursor</translation>
+        <translation>kurtsorea</translation>
     </message>
     <message>
         <location filename="../src/main-window.cc" line="+1900"/>
@@ -72,12 +72,12 @@
     <message>
         <location filename="../qterminal/libqterminal/QTerminal.h" line="+121"/>
         <source>Copy</source>
-        <translation>Copiar</translation>
+        <translation>Kopiatu</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Paste</source>
-        <translation>Pegar</translation>
+        <translation>Itsatsi</translation>
     </message>
     <message>
         <location line="+4"/>
