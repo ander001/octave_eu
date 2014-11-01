@@ -1000,38 +1000,38 @@ a:link { text-decoration: underline; color: #0000ff; }
     <message>
         <location filename="../src/history-dock-widget.cc" line="+43"/>
         <source>Browse and search the command history.</source>
-        <translation>Explorar y buscar en el historial de comandos.</translation>
+        <translation>Miatu eta bilatu komandoen historialean.</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Double-click a command to transfer it to the terminal.</source>
-        <translation>Pulse dos veces un comando para transferirlo al terminal.</translation>
+        <translation>Terminalera eroateko komando baten gainean birritan klik egin.</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Enter text to filter the command history.</source>
-        <translation>Introduzca texto para filtrar el historial de comandos.</translation>
+        <translation>Testua idatzi komandoen historiala filtratzeko.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Command History</source>
-        <translation>Historial de comandos</translation>
+        <translation>Komandoen historiala</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Copy</source>
-        <translation>Copiar</translation>
+        <translation>Kopiatu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Evaluate</source>
-        <translation>Evaluar</translation>
+        <translation>Ebaluatu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Create script</source>
-        <translatorcomment>Ha sido utilizada la traducción &quot;guión&quot; de script: http://es.wikipedia.org/wiki/Script#Traducci.C3.B3n</translatorcomment>
-        <translation>Crear un guión</translation>
+        <translatorcomment>Honako itzulpena erabili da &quot;guión&quot; scriptarena: http://es.wikipedia.org/wiki/Script#Traducci.C3.B3n</translatorcomment>
+        <translation>Gidoia sortu</translation>
     </message>
 </context>
 <context>
@@ -1039,17 +1039,17 @@ a:link { text-decoration: underline; color: #0000ff; }
     <message>
         <location filename="../src/welcome-wizard.cc" line="-179"/>
         <source>Welcome to Octave!</source>
-        <translation>¡Bienvenido a Octave!</translation>
+        <translation>Ongi etorri Octavera!</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Next</source>
-        <translation>Siguiente</translation>
+        <translation>Hurrengoa</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Deuseztatu</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1059,9 +1059,9 @@ Click &apos;Next&apos; to create a configuration file and launch Octave.&lt;/p&g
 &lt;p&gt;The configuration file is stored in&lt;br&gt;%1.&lt;/p&gt;
 &lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;body&gt;
-&lt;p&gt;Parece que está utilizando la interface gráfica de Octave por primera vez en esta computadora.
-Pulse &apos;Siguiente&apos; para crear un archivo de configuración e iniciar Octave.&lt;/p&gt;
-&lt;p&gt;El archivo de configuración se guardará en&lt;br&gt;%1.&lt;/p&gt;
+&lt;p&gt;Badirudi Octaveren ingurune grafikoa lehen aldiz erabili dela ordenagailu honetan.
+Pulse &apos;Hurrengoa&apos; konfigurazio-fitxategi bat sortzeko eta Octave abiarazteko.&lt;/p&gt;
+&lt;p&gt;Konfigurazio-fitxategia hemen gordeko da&lt;br&gt;%1.&lt;/p&gt;
 &lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
@@ -1070,29 +1070,29 @@ Pulse &apos;Siguiente&apos; para crear un archivo de configuración e iniciar Oc
     <message>
         <location filename="../src/main-window.cc" line="-1696"/>
         <source>Load Workspace</source>
-        <translation>Cargar espacio de trabajo</translation>
+        <translation>Lan-eremua kargatu</translation>
     </message>
     <message>
         <location line="+645"/>
         <location line="+876"/>
         <source>About Octave</source>
-        <translation>Acerca de Octave</translation>
+        <translation>Octaveri buruz</translation>
     </message>
     <message>
         <location line="-371"/>
         <source>&amp;File</source>
-        <translation>&amp;Archivo</translation>
+        <translation>&amp;Fitxategia</translation>
     </message>
     <message>
         <location line="+54"/>
         <source>New</source>
-        <translation>Nuevo</translation>
+        <translation>Berria</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Script</source>
         <translatorcomment>Guión/&quot;Script&quot;</translatorcomment>
-        <translation>Guión</translation>
+        <translation>Gidoia</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1102,42 +1102,42 @@ Pulse &apos;Siguiente&apos; para crear un archivo de configuración e iniciar Oc
     <message>
         <location line="-59"/>
         <source>Open...</source>
-        <translation>Abrir...</translation>
+        <translation>Ireki...</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Preferences...</source>
-        <translation>Preferencias...</translation>
+        <translation>Hobespenak...</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Exit</source>
-        <translation>Salir</translation>
+        <translation>Irten</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>&amp;Edit</source>
-        <translation>&amp;Editar</translation>
+        <translation>&amp;Editatu</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Undo</source>
-        <translation>Deshacer</translation>
+        <translation>Desegin</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Copy</source>
-        <translation>Copiar</translation>
+        <translation>Kopiatu</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Paste</source>
-        <translation>Pegar</translation>
+        <translation>Itsatsi</translation>
     </message>
     <message>
         <location line="-1265"/>
         <source>Save Workspace As</source>
-        <translation>Guardar espacio de trabajo como</translation>
+        <translation>Gorde honela lan-eremua</translation>
     </message>
     <message>
         <location line="+124"/>
