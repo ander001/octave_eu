@@ -1192,7 +1192,7 @@ Pulse &apos;Hurrengoa&apos; konfigurazio-fitxategi bat sortzeko eta Octave abiar
     <message>
         <location line="+3"/>
         <source>Step</source>
-        <translation>Hurrengo argibidea</translation>
+        <translation>Hurrengo agindua</translation>
     </message>
     <message>
         <location line="+12"/>
