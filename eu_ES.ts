@@ -685,7 +685,7 @@ has been deleted or renamed. Do you want to save it now?%2</source>
     <message>
         <location line="+1"/>
         <source>Finish</source>
-        <translation>Terminar</translation>
+        <translation>Amaitu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1187,22 +1187,22 @@ Pulse &apos;Hurrengoa&apos; konfigurazio-fitxategi bat sortzeko eta Octave abiar
     <message>
         <location line="+40"/>
         <source>De&amp;bug</source>
-        <translation>&amp;Depurar</translation>
+        <translation>&amp;Akasgabetu</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Step</source>
-        <translation>Siguiente instrucción</translation>
+        <translation>Hurrengo argibidea</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Continue</source>
-        <translation>Continuar</translation>
+        <translation>Jarraitu</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Exit Debug Mode</source>
-        <translation>Salir del modo de depuración</translation>
+        <translation>Akasgabetze modutik irten</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -1222,7 +1222,7 @@ Pulse &apos;Hurrengoa&apos; konfigurazio-fitxategi bat sortzeko eta Octave abiar
     <message>
         <location line="-288"/>
         <source>Step In</source>
-        <translation>Iniciar</translation>
+        <translation>Hasi</translation>
     </message>
     <message>
         <location line="-151"/>
@@ -1242,7 +1242,7 @@ Pulse &apos;Hurrengoa&apos; konfigurazio-fitxategi bat sortzeko eta Octave abiar
     <message>
         <location line="+111"/>
         <source>Step Out</source>
-        <translation>Terminar</translation>
+        <translation>Amaitu</translation>
     </message>
     <message>
         <location line="+108"/>
