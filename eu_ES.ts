@@ -6,7 +6,7 @@
     <message>
         <location filename="../src/dialog.cc" line="+251"/>
         <source>Select All</source>
-        <translation>Seleccionar todo</translation>
+        <translation>Hautatu dena</translation>
     </message>
 </context>
 <context>
@@ -29,37 +29,37 @@
     <message>
         <location line="+1"/>
         <source>hidden</source>
-        <translation>ezkutukoa</translation>
+        <translation>ezkutua</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>inherited</source>
-        <translation>heredado</translation>
+        <translation>heredatua</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>persistent</source>
-        <translation>persistente</translation>
+        <translation>iraunkorra</translation>
     </message>
     <message>
         <location filename="../qterminal/libqterminal/QTerminal.cc" line="+65"/>
         <source>foreground</source>
-        <translation>primer plano</translation>
+        <translation>aurreko planoa</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>background</source>
-        <translation>plano de fondo</translation>
+        <translation>atzeko planoa</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>selection</source>
-        <translation>selección</translation>
+        <translation>hautapena</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>cursor</source>
-        <translation>cursor</translation>
+        <translation>kurtsorea</translation>
     </message>
     <message>
         <location filename="../src/main-window.cc" line="+1900"/>
@@ -72,12 +72,12 @@
     <message>
         <location filename="../qterminal/libqterminal/QTerminal.h" line="+121"/>
         <source>Copy</source>
-        <translation>Copiar</translation>
+        <translation>Kopiatu</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Paste</source>
-        <translation>Pegar</translation>
+        <translation>Itsatsi</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -90,7 +90,7 @@
     <message>
         <location filename="../qterminal/libqterminal/win32/QWinTerminalImpl.cpp" line="+1536"/>
         <source>copied selection to clipboard</source>
-        <translation>selección copiada al portapapeles</translation>
+        <translation>arbelean kopiatutako aukeraketa</translation>
     </message>
 </context>
 <context>
@@ -98,12 +98,12 @@
     <message>
         <location filename="../src/documentation-dock-widget.cc" line="+34"/>
         <source>Documentation</source>
-        <translation>Documentación</translation>
+        <translation>Dokumentazioa</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>See the documentation for help.</source>
-        <translation>Consulte la documentación para obtener ayuda.</translation>
+        <translation>Laguntzeko dokumentazioa ikusi.</translation>
     </message>
 </context>
 <context>
@@ -115,7 +115,7 @@
         <location line="+59"/>
         <location line="+28"/>
         <source>Octave Editor</source>
-        <translation>Editor de Octave</translation>
+        <translation>Octaveren editorea</translation>
     </message>
     <message>
         <location line="-269"/>
@@ -125,7 +125,7 @@
     <message>
         <location line="-40"/>
         <source>New Function</source>
-        <translation>Nueva función</translation>
+        <translation>Funtzio berria</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -141,52 +141,52 @@
     <message>
         <location line="+175"/>
         <source>&amp;New File</source>
-        <translation>&amp;Nuevo archivo</translation>
+        <translation>Fitxategi &amp;berria</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&amp;Save File</source>
-        <translation>&amp;Guardar archivo</translation>
+        <translation>&amp;Gorde fitxategia</translation>
     </message>
     <message>
         <location line="-3"/>
         <source>&amp;Open File...</source>
-        <translation>&amp;Abrir archivo...</translation>
+        <translation>&amp;Ireki fitxategia...</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Save File &amp;As...</source>
-        <translation>Guardar archivo &amp;como...</translation>
+        <translation>Gorde &amp;honela...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Print...</source>
-        <translation>Imprimir...</translation>
+        <translation>Inprimatu...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Undo</source>
-        <translation>&amp;Deshacer</translation>
+        <translation>&amp;Desegin</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Redo</source>
-        <translation>&amp;Rehacer</translation>
+        <translation>&amp;Berregin</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Copy</source>
-        <translation>&amp;Copiar</translation>
+        <translation>&amp;Kopiatu</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Cu&amp;t</source>
-        <translation>Cor&amp;tar</translation>
+        <translation>Eba&amp;ki</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Paste</source>
-        <translation>Pegar</translation>
+        <translation>Itsatsi</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -344,7 +344,7 @@ is already open in the editor</source>
     <message>
         <location line="+521"/>
         <source>&amp;File</source>
-        <translation>&amp;Archivo</translation>
+        <translation>&amp;Fitxategia</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -354,12 +354,12 @@ is already open in the editor</source>
     <message>
         <location line="+34"/>
         <source>&amp;Edit</source>
-        <translation>&amp;Editar</translation>
+        <translation>&amp;Editatu</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>&amp;Debug</source>
-        <translation>&amp;Depurar</translation>
+        <translation>&amp;Akasgabetu</translation>
     </message>
     <message>
         <location line="+9"/>
