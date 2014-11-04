@@ -1359,7 +1359,7 @@ Pulse &apos;Hurrengoa&apos; konfigurazio-fitxategi bat sortzeko eta Octave abiar
     <message>
         <location line="+4"/>
         <source>Show Documentation</source>
-        <translation>Dokumentazioa azaldu</translation>
+        <translation>Dokumentazioa erakutsi</translation>
     </message>
     <message>
         <location line="+6"/>
