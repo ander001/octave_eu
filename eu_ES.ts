@@ -1142,47 +1142,47 @@ Pulse &apos;Hurrengoa&apos; konfigurazio-fitxategi bat sortzeko eta Octave abiar
     <message>
         <location line="+124"/>
         <source>The release notes file &apos;%1&apos; is empty.</source>
-        <translation>El archivo de las notas de versión %1 está vacío.</translation>
+        <translation>%1 bertsioaren noten fitxategia hutsik dago.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The release notes file &apos;%1&apos; cannot be read.</source>
-        <translation>El archivo de las notas de versión %1 no puede ser leído.</translation>
+        <translation>%1 bertsioaren noten fitxategia ezin da irakurri.</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Octave Release Notes</source>
-        <translation>Notas de la versión de Octave</translation>
+        <translation>Octave bertsioaren notak</translation>
     </message>
     <message>
         <location line="+189"/>
         <source>Octave Community News</source>
-        <translation>Noticas de la comunidad Octave</translation>
+        <translation>Octave komunitatearen berriak</translation>
     </message>
     <message>
         <location line="+939"/>
         <source>Clear Clipboard</source>
-        <translation>Limpiar el portapapeles</translation>
+        <translation>Paper-zorroa garbitu</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Find Files...</source>
-        <translation>Buscar archivos...</translation>
+        <translation>Bilatu fitxategiak...</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Clear Command Window</source>
-        <translation>Limpiar la ventana de comandos</translation>
+        <translation>Komandoen leihoa garbitu</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Clear Command History</source>
-        <translation>Limpiar el historial de comandos</translation>
+        <translation>Komandoen historiala garbitu</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Clear Workspace</source>
-        <translation>Limpiar el espacio de trabajo</translation>
+        <translation>Lan-eremua garbitu</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -1207,17 +1207,17 @@ Pulse &apos;Hurrengoa&apos; konfigurazio-fitxategi bat sortzeko eta Octave abiar
     <message>
         <location line="+51"/>
         <source>Show File Browser</source>
-        <translation>Mostrar el explorador de archivos</translation>
+        <translation>Fitxategi-arakatzailea erakusti</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>File Browser</source>
-        <translation>Explorador de archivos</translation>
+        <translation>Fitxategi-arakatzailea</translation>
     </message>
     <message>
         <location line="+194"/>
         <source>&lt;strong&gt;You are using a release candidate of Octave&apos;s experimental GUI.&lt;/strong&gt;  Octave is under continuous improvement and the GUI will be the default interface for the 4.0 release.  For more information, select the &quot;Release Notes&quot; item in the &quot;News&quot; menu of the GUI, or visit &lt;a href=&quot;http://octave.org&quot;&gt;http://octave.org&lt;/a&gt;.</source>
-        <translation>&lt;strong&gt;Está utilizando una versión preliminar de la GUI experimental de Octave.&lt;/strong&gt;  Octave se encuentra bajo constante desarrollo y la GUI será la interfaz por defecto en la versión 4.0. Para mayor información, seleccione &quot;Notas de la versión&quot; en el menú &quot;Noticias&quot; de la GUI o visite &lt;a href=&quot;http://octave.org&quot;&gt;http://octave.org&lt;/a&gt;.</translation>
+        <translation>&lt;strong&gt;Ocatveren GUI esperimentalaren aurretiazko bertsio bat darabilzu.&lt;/strong&gt;  Octave etengabe garatzen doa eta GUIa 4.0 bertsioak izango duen interfazea izango da. Infromazio gehiagorako, aukeratu &quot;Bertsioaren notak&quot; menuan &quot;Berriak&quot; GUIarena edo ikusi &lt;a href=&quot;http://octave.org&quot;&gt;http://octave.org&lt;/a&gt;.</translation>
     </message>
     <message>
         <location line="-288"/>
@@ -1227,17 +1227,17 @@ Pulse &apos;Hurrengoa&apos; konfigurazio-fitxategi bat sortzeko eta Octave abiar
     <message>
         <location line="-151"/>
         <source>Load Workspace...</source>
-        <translation>Cargar espacio de trabajo...</translation>
+        <translation>Lan-eremua kargatu...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Save Workspace As...</source>
-        <translation>Guardar espacio de trabajo como...</translation>
+        <translation>Gorde honela lan-eremua...</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Function...</source>
-        <translation>Función...</translation>
+        <translation>Funtzioa...</translation>
     </message>
     <message>
         <location line="+111"/>
@@ -1247,73 +1247,73 @@ Pulse &apos;Hurrengoa&apos; konfigurazio-fitxategi bat sortzeko eta Octave abiar
     <message>
         <location line="+108"/>
         <source>Reset Default Window Layout</source>
-        <translation>Reestablecer el esquema de ventana predeterminado</translation>
+        <translation>Leihoen eskema lehenetsia berrezarri</translation>
     </message>
     <message>
         <location line="+77"/>
         <source>Octave Packages</source>
-        <translation>Paquetes de Octave</translation>
+        <translation>Ocataveren paketeak</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Share Code</source>
-        <translation>Compartir código</translation>
+        <translation>Kodea partekatu</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Contribute to Octave</source>
-        <translation>Colaborar en Octave</translation>
+        <translation>Octaverekin kolaboratu</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Octave Developer Resources</source>
-        <translation>Recursos para el desarrollador de Octave</translation>
+        <translation>Octaveren garatzaileentzako baliabideak</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>On Disk</source>
-        <translation>En disco</translation>
+        <translation>Diskoan</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Online</source>
-        <translation>En línea</translation>
+        <translation>Linean</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>&amp;News</source>
-        <translation>&amp;Noticias</translation>
+        <translation>&amp;Berriak</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Release Notes</source>
-        <translation>Notas de la versión</translation>
+        <translation>Bertsioaren oharrak</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Community News</source>
-        <translation>Noticias de la comunidad</translation>
+        <translation>Komunitatearen berriak</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>More Info</source>
-        <translation>Mas información</translation>
+        <translation>Informazio gehiago</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Hide</source>
-        <translation>Ocultar</translation>
+        <translation>Ezkutatu</translation>
     </message>
     <message>
         <location line="+47"/>
         <location line="+66"/>
         <source>Experimental GUI Info</source>
-        <translation>Información de la GUI experimental</translation>
+        <translation>GUI esperimentalari buruzko informazioa</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Enter directory name</source>
-        <translation>Introduzca el nombre del directorio</translation>
+        <translation>Sartu helbidaren izena</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1323,79 +1323,79 @@ Pulse &apos;Hurrengoa&apos; konfigurazio-fitxategi bat sortzeko eta Octave abiar
     <message>
         <location line="+4"/>
         <source>One directory up</source>
-        <translation>Directorio superior</translation>
+        <translation>Gorengo helbidea</translation>
     </message>
     <message>
         <location line="-1283"/>
         <location line="+1286"/>
         <source>Browse directories</source>
-        <translation>Explorar directorios</translation>
+        <translation>Direktorioak miatu</translation>
     </message>
     <message>
         <location line="-405"/>
         <source>&amp;Window</source>
-        <translation>&amp;Ventana</translation>
+        <translation>&amp;Leihoa</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show Command Window</source>
-        <translation>Mostrar la ventana de comandos</translation>
+        <translation>Komandoen leihoa erakutsi</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Show Command History</source>
-        <translation>Mostrar el historial de comandos</translation>
+        <translation>Komandoen historiala erakutsi</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Show Workspace</source>
-        <translation>Mostrar el espacio de trabajo</translation>
+        <translation>Lan-eremua erakutsi</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Show Editor</source>
-        <translation>Mostrar el editor</translation>
+        <translation>Editorea erakutsi</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Show Documentation</source>
-        <translation>Mostrar la documentación</translation>
+        <translation>Dokumentazioa azaldu</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Command Window</source>
-        <translation>Ventana de comandos</translation>
+        <translation>Komandoen leihoa</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Command History</source>
-        <translation>Historial de comandos</translation>
+        <translation>Komandoen historiala</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Workspace</source>
-        <translation>Espacio de trabajo</translation>
+        <translation>Lan-eremua</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Editor</source>
-        <translation>Editor</translation>
+        <translation>Editorea</translation>
     </message>
     <message>
         <location line="+4"/>
         <location line="+121"/>
         <source>Documentation</source>
-        <translation>Documentación</translation>
+        <translation>Dokumentazioa</translation>
     </message>
     <message>
         <location line="-48"/>
         <source>&amp;Help</source>
-        <translation>&amp;Ayuda</translation>
+        <translation>&amp;Laguntza</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Report Bug</source>
-        <translation>Informar de fallo</translation>
+        <translation>Eman akatsaren berri</translation>
     </message>
 </context>
 <context>
