@@ -120,7 +120,7 @@
     <message>
         <location line="-269"/>
         <source>Octave Files (*.m);;All Files (*)</source>
-        <translation>Archivos de Octave (*.m);;Todos los archivos (*)</translation>
+        <translation>Octaveren fitxategiak (*.m);;Fitxategi guztiak (*)</translation>
     </message>
     <message>
         <location line="-40"/>
