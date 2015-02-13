@@ -256,7 +256,7 @@
     <message>
         <location line="+55"/>
         <source>&amp;Recent Editor Files</source>
-        <translation>Archivos &amp;recientes</translation>
+        <translation>Azken &amp;fitxategiak</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -383,7 +383,7 @@ is already open in the editor</source>
         <location line="+71"/>
         <location line="+69"/>
         <source>&lt;unnamed&gt;</source>
-        <translation>&lt;sin nombre&gt;</translation>
+        <translation>&lt;Izen gabe&gt;</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -457,12 +457,12 @@ has been deleted or renamed. Do you want to save it now?%2</source>
     <message>
         <location filename="../src/files-dock-widget.cc" line="+68"/>
         <source>File Browser</source>
-        <translation>Explorador de archivos</translation>
+        <translation>Fitxategi-arakatzailea</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Browse your files.</source>
-        <translation>Explore sus archivos.</translation>
+        <translation>Arakatu zure fitxategiak.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -1207,7 +1207,7 @@ Pulse &apos;Hurrengoa&apos; konfigurazio-fitxategi bat sortzeko eta Octave abiar
     <message>
         <location line="+51"/>
         <source>Show File Browser</source>
-        <translation>Fitxategi-arakatzailea erakusti</translation>
+        <translation>Fitxategi-arakatzailea erakutsi</translation>
     </message>
     <message>
         <location line="+26"/>
@@ -1612,7 +1612,7 @@ Asegúrese de que tiene permisos de escritura sobre\n%2\n\nOctave GUI se cerrar�
     <message>
         <location line="+39"/>
         <source>Editor</source>
-        <translation>Editor</translation>
+        <translation>Editorea</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -1778,7 +1778,7 @@ Asegúrese de que tiene permisos de escritura sobre\n%2\n\nOctave GUI se cerrar�
     <message>
         <location line="+35"/>
         <source>File Browser</source>
-        <translation>Explorador de archivos</translation>
+        <translation>Fitxategi-arakatzailea</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1808,7 +1808,7 @@ Asegúrese de que tiene permisos de escritura sobre\n%2\n\nOctave GUI se cerrar�
     <message>
         <location line="+21"/>
         <source>Workspace</source>
-        <translation>Espacio de trabajo</translation>
+        <translation>Lan-eremua</translation>
     </message>
     <message>
         <location line="+30"/>
@@ -1996,7 +1996,7 @@ a:link { text-decoration: underline; color: #0000ff; }
     <message>
         <location filename="../src/terminal-dock-widget.cc" line="+38"/>
         <source>Command Window</source>
-        <translation>Ventana de comandos</translation>
+        <translation>Komandoen leihoa</translation>
     </message>
 </context>
 <context>
@@ -2004,12 +2004,12 @@ a:link { text-decoration: underline; color: #0000ff; }
     <message>
         <location filename="../src/qtinfo/webinfo.cc" line="+80"/>
         <source>Type here and press &apos;Return&apos; to search</source>
-        <translation>Escriba aquí y pulse la tecla &apos;Retorno&apos; para buscar</translation>
+        <translation>Idatzi hemen eta egin klik &apos;sartu&apos; tekla</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Global search</source>
-        <translation>Búsqueda global</translation>
+        <translation>Bilaketa orokorra</translation>
     </message>
 </context>
 <context>
@@ -2025,27 +2025,27 @@ a:link { text-decoration: underline; color: #0000ff; }
     <message>
         <location filename="../src/workspace-model.cc" line="-42"/>
         <source>Name</source>
-        <translation>Nombre</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Class</source>
-        <translation>Clase</translation>
+        <translation>Mota</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Dimension</source>
-        <translation>Dimensión</translation>
+        <translation>Neurria</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Value</source>
-        <translation>Valor</translation>
+        <translation>Balioa</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Storage Class</source>
-        <translation>Clase de almacenamiento</translation>
+        <translation>Biltegiratze-mota</translation>
     </message>
     <message>
         <location line="+109"/>
@@ -2064,7 +2064,7 @@ a:link { text-decoration: underline; color: #0000ff; }
     <message>
         <location filename="../src/workspace-view.cc" line="+47"/>
         <source>Workspace</source>
-        <translation>Espacio de trabajo</translation>
+        <translation>Lan-eremua</translation>
     </message>
     <message>
         <location line="+1"/>
