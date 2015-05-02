@@ -125,7 +125,7 @@
     <message>
         <location line="-40"/>
         <source>New Function</source>
-        <translation>Funtzio berria</translation>
+        <translation>Beste funtzio bat</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -141,7 +141,7 @@
     <message>
         <location line="+175"/>
         <source>&amp;New File</source>
-        <translation>Fitxategi &amp;berria</translation>
+        <translation>Beste &amp;fitxategi bat</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -191,67 +191,67 @@
     <message>
         <location line="+2"/>
         <source>&amp;Next Bookmark</source>
-        <translation>Siguiente &amp;marcador</translation>
+        <translation>Hurrengo &amp;marka</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Pre&amp;vious Bookmark</source>
-        <translation>Marcador &amp;anterior</translation>
+        <translation>Aurreko &amp;marka</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Toggle &amp;Bookmark</source>
-        <translation>&amp;Alternar marcadores</translation>
+        <translation>&amp;Markatzaileak txandatu</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Remove All Bookmarks</source>
-        <translation>&amp;Eliminar todos los marcadores</translation>
+        <translation>&amp;Marka guztiak desegin</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;Next Breakpoint</source>
-        <translation>&amp;Siguiente punto de interrupción</translation>
+        <translation>&amp;Hurrengo geldiune-puntua</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Pre&amp;vious Breakpoint</source>
-        <translation>Punto de interrupción &amp;previo</translation>
+        <translation>Aurreko &amp;geldiune-puntua</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Toggle &amp;Breakpoint</source>
-        <translation>&amp;Alternar puntos de interrupción</translation>
+        <translation>&amp;Geldiune-puntuak txandatu</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Remove All Breakpoints</source>
-        <translation>&amp;Eliminar todos los puntos de interrupción</translation>
+        <translation>&amp;Geldiune-puntu guztiak desegin</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Comment</source>
-        <translation>&amp;Comentar</translation>
+        <translation>&amp;Iruzkindu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Uncomment</source>
-        <translation>&amp;Eliminar comentario</translation>
+        <translation>&amp;Iruzkina ezabatu</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Find and Replace...</source>
-        <translation>&amp;Buscar y reemplazar...</translation>
+        <translation>&amp;Bilatu eta ordezkatu...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Save File and Run</source>
-        <translation>Guardar archivo y ejecutar</translation>
+        <translation>Fitxategia gorde eta exekutatu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go &amp;to Line...</source>
-        <translation>&amp;Ir a línea...</translation>
+        <translation>&amp;Lineara joan...</translation>
     </message>
     <message>
         <location line="+55"/>
@@ -261,85 +261,85 @@
     <message>
         <location line="+11"/>
         <source>&amp;Edit Function</source>
-        <translation>&amp;Editar función</translation>
+        <translation>&amp;Funtzioa editatu</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>&amp;Close</source>
-        <translation>C&amp;errar</translation>
+        <translation>I&amp;txi</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Close All</source>
-        <translation>Cerrar todo</translation>
+        <translation>Itxi dena</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Close Other Files</source>
-        <translation>Cerrar otros archivos</translation>
+        <translation>Beste fitxategi batzuk itxi</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>&amp;Preferences...</source>
-        <translation>&amp;Preferencias...</translation>
+        <translation>&amp;Hobespenak...</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;Styles Preferences...</source>
-        <translation>Preferencias de &amp;estilos...</translation>
+        <translation>Estiloen &amp;hobespena...</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Run &amp;Selection</source>
-        <translation>Ejecutar &amp;selección</translation>
+        <translation>Hautaketa &amp;exekutatu</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>&amp;Help</source>
-        <translation>&amp;Ayuda</translation>
+        <translation>&amp;Laguntza</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Help on Keyword</source>
-        <translation>&amp;Ayuda de palabras clave</translation>
+        <translation>&amp;Hitz-gakoen laguntza</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Documentation on Keyword</source>
-        <translation>&amp;Documentación de palabras clave</translation>
+        <translation>&amp;Hitz-gakoen dokumentazioa</translation>
     </message>
     <message>
         <location line="-741"/>
         <source>Could not open file
 %1
 for read: %2.</source>
-        <translation>No se ha podido abrir el archivo\n%1\npara lectura: %2.</translation>
+        <translation>Ezin da zabaldu\n%1\nfitxategia irakurtzeko %2.</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>File
 %1
 does not exist. Do you want to create it?</source>
-        <translation>El archivo\n%1\nno existe. ¿Desea crearlo?</translation>
+        <translation>Fitxategia\n%1\nez dago. Sortu nahi duzu?</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Could not open file
 %1
 for write: %2.</source>
-        <translation>No se ha podido abrir el archivo\n%1\npara escritura: %2.</translation>
+        <translation>Ezin da zabaldu\n%1\nfitxategia idazteko: %2.</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>File not saved! A file with the selected name
 %1
 is already open in the editor</source>
-        <translation>¡Archivo no guardado! Un archivo con el nombre seleccionado\n%1\nya se encuentra abierto en el editor</translation>
+        <translation>¡Gorde gabeko fitxategia! Hautatutako izenarekin\n%1\nfitxategi bat irekita dago editorean</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>The associated file editor tab has disappeared.</source>
-        <translation>La pestaña para la edición del archivo ha desaparecido.</translation>
+        <translation>Fitxategiaren ediziorako fitxa desagertu egin da.</translation>
     </message>
     <message>
         <location line="+521"/>
@@ -349,7 +349,7 @@ is already open in the editor</source>
     <message>
         <location line="+7"/>
         <source>New &amp;Function...</source>
-        <translation>Nueva &amp;función...</translation>
+        <translation>Beste &amp;funtzio bat...</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -364,7 +364,7 @@ is already open in the editor</source>
     <message>
         <location line="+9"/>
         <source>&amp;Run</source>
-        <translation>&amp;Ejecutar</translation>
+        <translation>&amp;Exekutatu</translation>
     </message>
 </context>
 <context>
@@ -372,12 +372,12 @@ is already open in the editor</source>
     <message>
         <location filename="../src/m-editor/file-editor-tab.cc" line="+803"/>
         <source>Goto line</source>
-        <translation>Ir a línea</translation>
+        <translation>Joan lerrora</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Line number</source>
-        <translation>Número de línea</translation>
+        <translation>Lerro-zenbakia</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -388,12 +388,12 @@ is already open in the editor</source>
     <message>
         <location line="-12"/>
         <source>Do you want to save or discard the changes?</source>
-        <translation>¿Desea guardar o descartar los cambios?</translation>
+        <translation>Aldaketak gorde ala baztertu nahi dituzu?</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Do you want to cancel closing, save or discard the changes?</source>
-        <translation>¿Desea cancelar el cierre, guardar o descartar los cambios?</translation>
+        <translation>Ixtea galarazi, gorde ala aldaketak baztertu nahi dituzu?</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -401,7 +401,7 @@ is already open in the editor</source>
         <location line="+150"/>
         <location line="+22"/>
         <source>Octave Editor</source>
-        <translation>Editor de Octave</translation>
+        <translation>Octaveren editorea</translation>
     </message>
     <message>
         <location line="-293"/>
@@ -409,47 +409,47 @@ is already open in the editor</source>
 %1
 is about to be closed but has been modified.
 %2</source>
-        <translation>El archivo\n%1\nestá a punto de ser cerrado, pero ha sido modificado.\n%2</translation>
+        <translation>\n%1\nfitxategia ixtear dago, baina aldaketak izan dira.\n%2</translation>
     </message>
     <message>
         <location line="+201"/>
         <source>Octave Files (*.m);;All Files (*)</source>
-        <translation>Archivos de Octave(*.m);;Todos los archivos(*)</translation>
+        <translation>Octaveren fitxategiak(*.m);;Fitxategi guztiak(*)</translation>
     </message>
     <message>
         <location line="+86"/>
         <source>
 
 Warning: The contents in the editor is modified!</source>
-        <translation>\n\n Advertencia: ¡El contenido del editor ha sido modificado!</translation>
+        <translation>\n\n Ohartarazpena: Editorearen edukian aldaketak izan dira!</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>It seems that the file
 %1
 has been deleted or renamed. Do you want to save it now?%2</source>
-        <translation>Parece que el archivo\n%1\nha sido eliminado o renombrado.¿Desea guardarlo ahora?%2</translation>
+        <translation>Itxuraz\n%1\nfitxategia ezabatu edo izenez aldatu da. Orain gorde nahi duzu?%2</translation>
     </message>
     <message>
         <location line="-172"/>
         <source>Could not open file %1 for write:
 %2.</source>
-        <translation>No se ha podido abrir el archivo %1 para escritura:\n%2.</translation>
+        <translation>Ezin izan da ireki %1 fitxategia idazteko:\n%2.</translation>
     </message>
     <message>
         <location line="-975"/>
         <source>Line:</source>
-        <translation>Línea:</translation>
+        <translation>Lerroa:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Col:</source>
-        <translation>Col:</translation>
+        <translation>Zut:</translation>
     </message>
     <message>
         <location line="+1122"/>
         <source>It seems that &apos;%1&apos; has been modified by another application. Do you want to reload it?</source>
-        <translation>Parece que el archivo \&apos;%1\&apos; ha sido modificado por otra aplicación. ¿Desea recargarlo?</translation>
+        <translation>Itxuraz \&apos;%1\&apos; fitxategia beste aplikazio batek aldatu du. ¿Berriro kargatu nahi duzu?</translation>
     </message>
 </context>
 <context>
@@ -467,153 +467,153 @@ has been deleted or renamed. Do you want to save it now?%2</source>
     <message>
         <location line="+18"/>
         <source>Enter the path or filename</source>
-        <translation>Introduzca la dirección o el nombre del archivo</translation>
+        <translation>Sartu fitxategiaren kokagunea edo izena</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Move up one directory</source>
-        <translation>Subir un directorio</translation>
+        <translation>Direktori bat igo</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Actions on current directory</source>
-        <translation>Acciones en el directorio actual</translation>
+        <translation>Uneko direktorioan ekintzak</translation>
     </message>
     <message>
         <location line="+373"/>
         <source>Find Files...</source>
-        <translation>Buscar archivos...</translation>
+        <translation>Fitxategiak bilatu...</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>New File</source>
-        <translation>Nuevo archivo</translation>
+        <translation>Beste fitxategi bat</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>New Directory</source>
-        <translation>Nuevo directorio</translation>
+        <translation>Beste direktorio bat</translation>
     </message>
     <message>
         <location line="-323"/>
         <source>Double-click a file to open it</source>
-        <translation>Pulse dos veces en un archivo para abrirlo</translation>
+        <translation>Klik bikoitza fitxategiak irekitzeko</translation>
     </message>
     <message>
         <location line="-79"/>
         <source>Show Octave directory</source>
-        <translation>Mostrar el directorio de Octave</translation>
+        <translation>Octaveren direktorioa erakutsi</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to current Octave directory</source>
-        <translation>Ir al directorio actual de Octave</translation>
+        <translation>Octaveren uneko direktoriora joan</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Set Octave directory</source>
-        <translation>Seleccionar el directorio de Octave</translation>
+        <translation>Hautatu Octaveren direktorioa</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Set Octave directroy to current browser directory</source>
-        <translation>Asignar el directorio de Octave como directorio actual del explorador</translation>
+        <translation>Octaveren direktorioa fitxategi-kudeatzailearen uneko direktorio egin</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show Home Directory</source>
-        <translation>Mostrar el directorio de inicio</translation>
+        <translation>Hasiera-direktorioa erakutsi</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Search Directory...</source>
-        <translation>Buscar directorio...</translation>
+        <translation>Direktorioa bilatu...</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Find Files...</source>
-        <translation>Buscar archivos...</translation>
+        <translation>Fitxategiak bilatu...</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>New File...</source>
-        <translation>Nuevo archivo...</translation>
+        <translation>Beste fitxategi bat...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>New Directory...</source>
-        <translation>Nuevo directorio...</translation>
+        <translation>Beste direktorio bat...</translation>
     </message>
     <message>
         <location line="+276"/>
         <source>File size</source>
-        <translation>Tamaño del archivo</translation>
+        <translation>Fitxategiaren tamaina</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>File type</source>
-        <translation>Tipo de archivo</translation>
+        <translation>Fitxategi-mota</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Date modified</source>
-        <translation>Fecha de modificación</translation>
+        <translation>Aldatze-data</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Show hidden</source>
-        <translation>Mostrar ocultos</translation>
+        <translation>Ezkutukoak erakutsi</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Open</source>
-        <translation>Abrir</translation>
+        <translation>Ireki</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Open in Default Application</source>
-        <translation>Abrir en aplicación predeterminada</translation>
+        <translation>Lehenetsitako aplikazioan ireki</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Copy Selection to Clipboard</source>
-        <translation>Copiar selección al portapapeles</translation>
+        <translation>Hautaketa papel-zorroan kopiatu</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Run</source>
-        <translation>Ejecutar</translation>
+        <translation>Exekutatu</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Load Data</source>
-        <translation>Cargar datos</translation>
+        <translation>Datuak kargatu</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Set Current Directory</source>
-        <translation>Asignar directorio actual</translation>
+        <translation>Uneko direktorioa aukeratu</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Rename</source>
-        <translation>Renombrar</translation>
+        <translation>Izena aldatu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Delete</source>
-        <translation>Eliminar</translation>
+        <translation>Ezabatu</translation>
     </message>
     <message>
         <location line="+108"/>
         <source>Rename file/directory</source>
-        <translation>Renombrar archivo/directorio</translation>
+        <translation>Fitxategiari/direktorioari izena aldatu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Rename file/directory:
 </source>
-        <translation>Renombrar archivo/directorio:</translation>
+        <translation>Fitxategiari/direktorioari izena aldatu:</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -625,48 +625,48 @@ has been deleted or renamed. Do you want to save it now?%2</source>
         <location line="+25"/>
         <location line="+14"/>
         <source>Delete file/directory</source>
-        <translation>Eliminar archivo/directorio</translation>
+        <translation>Ezabatu fitxategia/direktorioa</translation>
     </message>
     <message>
         <location line="-13"/>
         <source>Are you sure you want to delete
 </source>
-        <translation>¿Está seguro de que desea eliminar</translation>
+        <translation>Seguru zaude ezabatu nahi duzula</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Can not delete a directory that is not empty</source>
-        <translation>No se puede eliminar un directorio que no esté vacío</translation>
+        <translation>Ezin dira hutsik ez dauden direktorioak ezabatu</translation>
     </message>
     <message>
         <location line="+144"/>
         <source>Set directory of file browser</source>
-        <translation>Seleccionar directorio de explorador de archivos</translation>
+        <translation>Fitxategi-kudeatzailetik direktorioa aukeratu</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Create File</source>
-        <translation>Crear archivo</translation>
+        <translation>Fitxategia sortu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Create file in
 </source>
         <comment>String ends with \n!</comment>
-        <translation>Crear archivo en
+        <translation>Fitxategia sortu hemen
 </translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Create Directory</source>
-        <translation>Crear directorio</translation>
+        <translation>Direktorioa sortu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Create folder in
 </source>
         <comment>String ends with \n!</comment>
-        <translation>Crear carpeta en
+        <translation>Karpeta sortu hemen
 </translation>
     </message>
 </context>
@@ -675,12 +675,12 @@ has been deleted or renamed. Do you want to save it now?%2</source>
     <message>
         <location filename="../src/welcome-wizard.cc" line="+194"/>
         <source>Enjoy!</source>
-        <translation>¡Que lo disfrute!</translation>
+        <translation>Gozatu!</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Previous</source>
-        <translation>Previo</translation>
+        <translation>Aurrekoa</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -690,7 +690,7 @@ has been deleted or renamed. Do you want to save it now?%2</source>
     <message>
         <location line="+1"/>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Utzi</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -700,9 +700,9 @@ has been deleted or renamed. Do you want to save it now?%2</source>
 You can find more information about each of these by visiting &lt;a href=&quot;http://octave.org/support.html&quot;&gt;http://octave.org/support.html&lt;/a&gt; (opens in external browser).&lt;/p&gt;
 &lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;body&gt;
-&lt;p&gt;Esperamos que Octave haya sido una herramienta útil para usted.&lt;/p&gt;
-&lt;p&gt;Si ha encontrado problemas, existen varias opciones para obtener ayuda, incluyendo soporte comercial, una lista de correo electrónico, una página wiki y otros canales de soporte basados en la comunidad.
-Puede encontrar más información acerca de estas opciones visitando &lt;a href=&quot;http://octave.org/support.html&quot;&gt;http://octave.org/support.html&lt;/a&gt; (abre en un navegador externo).&lt;/p&gt;
+&lt;p&gt;Espero dugu Octave tresna baliagarria izana.&lt;/p&gt;
+&lt;p&gt;Arazorik izan baduzu, badaude hainbat modu laguntza lortzeko, euskarri komertziala barne, korreo elektronikoko zerrenda, wiki-orria eta komunitatean oinarritutako beste euskarri-kanal batzuk.
+Aukera horien gainean informazio gehiago aurki zenzake honakoei bisita eginda &lt;a href=&quot;http://octave.org/support.html&quot;&gt;http://octave.org/support.html&lt;/a&gt; (beste nabigatzaile batean irekitzen da).&lt;/p&gt;
 &lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
@@ -724,11 +724,11 @@ a:link { text-decoration: underline; color: #0000ff; }
 a:link { text-decoration: underline; color: #0000ff; }
 &lt;/style&gt;
 &lt;head/&gt;&lt;body&gt;
-&lt;p&gt;Para más información acerca de Octave:&lt;/p&gt;
+&lt;p&gt;Octaveri buruz informazio gehiago eskuratzeko:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Visite &lt;a href=&quot;http://octave.org&quot;&gt;http://octave.org&lt;/a&gt; (abre en un navegador externo)&lt;/li&gt;
-&lt;li&gt;Obtenga la documentación en linea en formato &lt;a href=&quot;http://www.gnu.org/software/octave/doc/interpreter/index.html&quot;&gt;html&lt;/a&gt; o como &lt;a href=&quot;http://www.gnu.org/software/octave/octave.pdf&quot;&gt;documento&lt;/span&gt;&lt;/a&gt; pdf(abre en un navegador externo)&lt;/li&gt;
-&lt;li&gt;Abra el navegador de la documentación de la GUI de Octave con el menú de ayuda&lt;/li&gt;
+&lt;li&gt;Eskuratu dokumentazioa linean honako formatuetan &lt;a href=&quot;http://www.gnu.org/software/octave/doc/interpreter/index.html&quot;&gt;html&lt;/a&gt; edo &lt;a href=&quot;http://www.gnu.org/software/octave/octave.pdf&quot;&gt;documento&lt;/span&gt;&lt;/a&gt; pdf(beste nabigatzaile batean irekitzen da)&lt;/li&gt;
+&lt;li&gt;Zabaldu Octaveren GUIaren dokumentazioaren nabigatzailea laguntza-menuarekin&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/body&gt;&lt;/html&gt;
 
@@ -741,102 +741,102 @@ a:link { text-decoration: underline; color: #0000ff; }
     <message>
         <location filename="../src/m-editor/find-dialog.cc" line="+77"/>
         <source>Find &amp;what:</source>
-        <translation>&amp;Buscar:</translation>
+        <translation>&amp;Bilatu:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Re&amp;place with:</source>
-        <translation>&amp;Reemplazar con:</translation>
+        <translation>&amp;Ordezkatu honekin:</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Match &amp;case</source>
-        <translation>Distinguir &amp;mayúsculas/minúsculas</translation>
+        <translation>Bereizi &amp;maiuskulak/minuskulak</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Search from &amp;start</source>
-        <translation>Buscar desde el &amp;inicio</translation>
+        <translation>Hasieratik &amp;bilatu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Wrap while searching</source>
-        <translation>&amp;Marcar mientras se busca</translation>
+        <translation>&amp;Markatu bilatzen den bitartean</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Find Next</source>
-        <translation>&amp;Buscar siguiente</translation>
+        <translation>&amp;Hurrengoa bilatu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Find &amp;Previous</source>
-        <translation>Buscar &amp;anterior</translation>
+        <translation>Aurrekoa &amp;bilatu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Replace</source>
-        <translation>&amp;Reemplazar</translation>
+        <translation>&amp;Ordezkatu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Replace &amp;All</source>
-        <translation>Reemplazar &amp;todo</translation>
+        <translation>Ordezkatu &amp;dena</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;More...</source>
-        <translation>&amp;Más...</translation>
+        <translation>&amp;Gehiago...</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>&amp;Whole words</source>
-        <translation>Palabras &amp;completas</translation>
+        <translation>Hitz &amp;osoak</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Regular E&amp;xpressions</source>
-        <translation>E&amp;xpresiones regulares</translation>
+        <translation>A&amp;dierazpen ohikoak</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Search &amp;backward</source>
-        <translation>Buscar hacia &amp;atrás</translation>
+        <translation>Atzerantz &amp;bilatu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Search se&amp;lection</source>
-        <translation>Buscar se&amp;lección</translation>
+        <translation>Aukeratu ha&amp;utapena</translation>
     </message>
     <message>
         <location line="+71"/>
         <source>Search from end</source>
-        <translation>Buscar desde el final</translation>
+        <translation>Azkenetik bilatu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Search from start</source>
-        <translation>Buscar desde el inicio</translation>
+        <translation>Hasieratik bilatu</translation>
     </message>
     <message>
         <location line="+121"/>
         <source>Replace Result</source>
-        <translation>Reemplazar resultado</translation>
+        <translation>Emaitza ordezkatu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>%1 items replaced</source>
-        <translation>%1 instancias reemplazadas</translation>
+        <translation>%1 item ordezkatuta</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Find Result</source>
-        <translation>Resultado de la búsqueda</translation>
+        <translation>Bilaketaren emaitza</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>No more matches found</source>
-        <translation>No se han encontrado más coincidencias</translation>
+        <translation>Ez dago bat-etortze gehiago</translation>
     </message>
 </context>
 <context>
@@ -844,142 +844,142 @@ a:link { text-decoration: underline; color: #0000ff; }
     <message>
         <location filename="../src/find-files-dialog.cc" line="+52"/>
         <source>Find Files</source>
-        <translation>Buscar archivos</translation>
+        <translation>Fitxategiak bilatu</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Named:</source>
-        <translation>Nombrado:</translation>
+        <translation>Izena:</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Enter the filename expression</source>
-        <translation>Introducir la expresión del nombre de archivo</translation>
+        <translation>Sartu fitxategiaren izenaren adierazpena</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Start in:</source>
-        <translation>Iniciar en:</translation>
+        <translation>Hasi hemen:</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Enter the start directory</source>
-        <translation>Introducir directorio de inicio</translation>
+        <translation>Sartu hasiera-direktorioan</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Browse...</source>
-        <translation>Explorar...</translation>
+        <translation>Arakatu...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Browse for start directory</source>
-        <translation>Explorar para seleccionar el directorio de inicio</translation>
+        <translation>Arakatu hasiera-direktorioa hautatzeko</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Recurse directories</source>
-        <translation>Explorar directorios de forma recursiva</translation>
+        <translation>Arakatu direktorioak modu errekurtsiboan</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Search recursively through directories for matching files</source>
-        <translation>Buscar archivos de forma recursiva en los directorios</translation>
+        <translation>Bilatu fitxategiak direktorioetan modu errekurtsiboan</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Include directories</source>
-        <translation>Incluir directorios</translation>
+        <translation>Direktorioak gehitu</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Include matching directories in search results</source>
-        <translation>Incluir directorios que coicidan en los resultados de la búsqueda</translation>
+        <translation>Bat egiten duten direktorioak gehitu bilaketa-emaitzetan</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Name case insensitive</source>
-        <translation>Distinguir mayúsculas/minúsculas en nombre</translation>
+        <translation>Izenetan maisukulak/minuskulak bereizi</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Set matching name is case insensitive</source>
-        <translation>Establecer distinción entre mayúsculas y minúsculas en el nombre</translation>
+        <translation>Bereizi izenetan maiuskulak eta minuskulak</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Contains text:</source>
-        <translation>Contiene el texto:</translation>
+        <translation>Testu hau du barnean:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Search must match text</source>
-        <translation>La búsqueda debe coincidir con el texto</translation>
+        <translation>Bilaketak testuarekin bat egin behar du</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Text to match</source>
-        <translation>Texto a coincidir</translation>
+        <translation>Bat egiteko testua</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Text case insensitive</source>
-        <translation>Distinguir mayúsculas/minúsculas en texto</translation>
+        <translation>Bereizi maiuskulak/minuskulak testuan</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Set text content is case insensitive</source>
-        <translation>Establecer distinción entre mayúsculas y minúsculas en el texto</translation>
+        <translation>Bereizi testuan maiuskulak eta minuskulak</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Search results</source>
-        <translation>Resultados de la búsqueda</translation>
+        <translation>Bilaketaren emaitzak</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Idle.</source>
-        <translation>Inactivo.</translation>
+        <translation>Ez aktibo.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Find</source>
-        <translation>Buscar</translation>
+        <translation>Bilatu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Start search for matching files</source>
-        <translation>Empezar búsqueda de archivos coincidentes</translation>
+        <translation>Biketa bat datozen fitxategietatik hasi</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Stop</source>
-        <translation>Detener</translation>
+        <translation>Gelditu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Stop searching</source>
-        <translation>Detener búsqueda</translation>
+        <translation>Bilaketa gelditu</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>File name/location</source>
-        <translation>Nombre de archivo/ubicación</translation>
+        <translation>Fitxategiaren/Kokagunearen izena</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>File contents</source>
-        <translation>Contenido del archivo</translation>
+        <translation>Fitxategiaren edukia</translation>
     </message>
     <message>
         <location line="+105"/>
         <source>Searching...</source>
-        <translation>Buscando...</translation>
+        <translation>Bilatzen...</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Set search directory</source>
-        <translation>Seleccionar directorio de búsqueda</translation>
+        <translation>Bilaketarako direktorioa hautatu</translation>
     </message>
 </context>
 <context>
@@ -987,12 +987,12 @@ a:link { text-decoration: underline; color: #0000ff; }
     <message>
         <location filename="../src/find-files-model.cc" line="+82"/>
         <source>Filename</source>
-        <translation>Nombre de archivo</translation>
+        <translation>Fitxategiaren izena</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Directory</source>
-        <translation>Directorio</translation>
+        <translation>Direktorioa</translation>
     </message>
 </context>
 <context>
