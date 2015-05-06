@@ -924,7 +924,7 @@ a:link { text-decoration: underline; color: #0000ff; }
     <message>
         <location line="+4"/>
         <source>Text case insensitive</source>
-        <translation>Bereizi maiuskulak/minuskulak testuan</translation>
+        <translation>Testuan maiuskulak/minuskulak bereizi</translation>
     </message>
     <message>
         <location line="+3"/>
