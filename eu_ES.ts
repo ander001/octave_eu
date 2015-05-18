@@ -1417,15 +1417,15 @@ when you have a connection to the web (link opens in an external browser).
         <translation>&lt;html&gt;
 &lt;body&gt;
 &lt;p&gt;
-Las fuentes de noticias de la comunidad Octave parece que no están disponibles.
+Badirudi Octave komunitatearen berrien gaineko iturburuak ez daudela erabilgarri.
 &lt;/p&gt;
 &lt;p&gt;
-Para las últimas novedades, visite
+Azken berritasunak ezagutzeko, bisita ezazu
 &lt;a href=&quot;http://octave.org/community-news.html&quot;&gt;http://octave.org/community-news.html&lt;/a&gt;
-cuando tenga conexión a la web (el enlace se abre en un navegador externo).
+web-konexioa duzunean (esteka beste nabigatzaile batean zabalduko da).
 &lt;/p&gt;
 &lt;p&gt;
-&lt;small&gt;&lt;em&gt;&amp;mdash; Los desarrolladores de Octave,</translation>
+&lt;small&gt;&lt;em&gt;&amp;mdash; Octaveren garatzaileak,</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -1445,16 +1445,16 @@ or enable web connections for news in Octave&apos;s network settings dialog.
         <translation>&lt;html&gt;
 &lt;body&gt;
 &lt;p&gt;
-La conexión a la web para desplegar las últimas novedades sobre Octave ha sido desactivada.
+Octaveren gaineko azken berritasunak bistaratzeko web-konexioa ezgaitu da.
 &lt;/p&gt;
 &lt;p&gt;
-Para ver las últimas novedades, vea
+Azken berritasunak ezagutzeko, bisita ezazu
 &lt;a href=&quot;http://octave.org/community-news.html&quot;&gt;http://octave.org/community-news.html&lt;/a&gt;
-cuando tenga conexión a la web (el enlace se abre en un navegador externo)
-o active las conexiones de web para ver las novedades en el diálogo de configuración de red de Octave
+web-konexioa duzunean (esteka beste nabigatzaile batean zabalduko da)
+edo aktibatu web-konexioa azken berrikuntzak Octaveren sare ezarpen-elkarrizketan ikusteko.
 &lt;/p&gt;
 &lt;p&gt;
-&lt;small&gt;&lt;em&gt;&amp;mdash; Los desarrolladores de Octave,
+&lt;small&gt;&lt;em&gt;&amp;mdash; Octaveren garatzaileak,
 </translation>
     </message>
 </context>
@@ -1464,20 +1464,20 @@ o active las conexiones de web para ver las novedades en el diálogo de configur
         <location filename="../src/octave-dock-widget.cc" line="+61"/>
         <location line="+163"/>
         <source>Undock widget</source>
-        <translatorcomment>Uso &quot;widget&quot; por ser el término usual: http://es.wikipedia.org/wiki/Widget</translatorcomment>
-        <translation>Desacoplar widget</translation>
+        <translatorcomment>Erabili &quot;widget&quot; ohiko terminoa delako: http://es.wikipedia.org/wiki/Widget</translatorcomment>
+        <translation>Banandu widgeta</translation>
     </message>
     <message>
         <location line="-153"/>
         <source>Hide widget</source>
-        <translatorcomment>Uso &quot;widget&quot; por ser el término usual: http://es.wikipedia.org/wiki/Widget</translatorcomment>
-        <translation>Ocultar widget</translation>
+        <translatorcomment>Erabili &quot;widget&quot; ohiko terminoa delako: http://es.wikipedia.org/wiki/Widget</translatorcomment>
+        <translation>Ezkutatu widgeta</translation>
     </message>
     <message>
         <location line="+104"/>
         <source>Dock widget</source>
-        <translatorcomment>Uso &quot;widget&quot; por ser el término usual: http://es.wikipedia.org/wiki/Widget</translatorcomment>
-        <translation>Acoplar widget</translation>
+        <translatorcomment>Erabili &quot;widget&quot; ohiko terminoa delako: http://es.wikipedia.org/wiki/Widget</translatorcomment>
+        <translation>Akoplatu widgeta</translation>
     </message>
 </context>
 <context>
@@ -1485,22 +1485,22 @@ o active las conexiones de web para ver las novedades en el diálogo de configur
     <message>
         <location filename="../src/m-editor/octave-qscintilla.cc" line="+130"/>
         <source>Help on</source>
-        <translation>Ayuda sobre</translation>
+        <translation>Laguntza honi buruz</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Documentation on</source>
-        <translation>Documentación sobre</translation>
+        <translation>Dokumentazioa honi buruz</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Edit</source>
-        <translation>Editar</translation>
+        <translation>Editatu</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>&amp;Run Selection</source>
-        <translation>&amp;Ejecutar selección</translation>
+        <translation>&amp;Hautapena exekutatu</translation>
     </message>
 </context>
 <context>
@@ -1510,56 +1510,56 @@ o active las conexiones de web para ver las novedades en el diálogo de configur
         <location line="+6"/>
         <location line="+7"/>
         <source>Yes</source>
-        <translation>Sí</translation>
+        <translation>Bai</translation>
     </message>
     <message>
         <location line="-13"/>
         <source>No</source>
-        <translation>No</translation>
+        <translation>Ez</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>File
 %1
 does not exist. Do you want to create it?</source>
-        <translation>El archivo\n%1\nno existe. ¿Desea crearlo?</translation>
+        <translation>Ez dago\n%1\nfitxategia. Sortu nahi duzu?</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Octave Editor</source>
-        <translation>Editor de Octave</translation>
+        <translation>Octaveren editorea</translation>
     </message>
     <message>
         <location line="+211"/>
         <source>The file %1 does not exist in the load path.  To debug the function you are editing, you must either change to the directory %2 or add that directory to the load path.</source>
-        <translatorcomment>Uso la traducción &quot;ruta&quot; para &quot;path&quot;: http://es.wikipedia.org/wiki/Ruta_(informática)</translatorcomment>
-        <translation>El archivo %1 no existe en la ruta de carga.  Para depurar la función que acualmente edita tiene que cambiar al directorio %2 o bien agregar ese directorio a la ruta de carga.</translation>
+        <translatorcomment>Itzulpena erabiltzen dut &quot;helbidea&quot; honako &quot;path&quot;: http://es.wikipedia.org/wiki/Ruta_(informática)</translatorcomment>
+        <translation>%1 fitxategia ez dago kargatze-helbidean. Editatzen ari zaren funtzioa akasgabetzeko, bi daukera dituzu: %2 direktoriora aldatzea edo direktorio hori kargatze-helbidera gehitzea.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The file %1 is shadowed by a file with the same name in the load path.  To debug the function you are editing, change to the directory %2.</source>
-        <translation>El archivo %1 se solapa con un archivo con el mismo nombre en la ruta de carga.  Para depurar la función que edita, cambie al directorio %2.</translation>
+        <translation>%1 fitxategia eta izen bereko beste fitxategi bat gainjarrita daude kargatze-helbidean. Editatzen ari zaren fitxategia akasgabetzeko, aldatu %2 direktoriora.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Change Directory or Add Directory to Load Path</source>
-        <translation>Cambiar directorio o agregar directorio a la ruta de carga</translation>
+        <translation>Aldatu direktorioa edo gehitu direktorioa kargatze-helbidera</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Change Directory</source>
-        <translation>Cambiar directorio</translation>
+        <translation>Aldatu direktorioa</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Add Directory to Load Path</source>
-        <translatorcomment>Uso la traducción &quot;ruta&quot; para &quot;path&quot;: http://es.wikipedia.org/wiki/Ruta_(informática)</translatorcomment>
-        <translation>Agregar directorio a la ruta de carga</translation>
+        <translatorcomment>Itzulpena erabiltzen dut &quot;helbidea&quot; honako &quot;path&quot;: http://es.wikipedia.org/wiki/Ruta_(informática)</translatorcomment>
+        <translation>Gehitu direktorioa kargatze-helbidean</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Ezeztatu</translation>
     </message>
 </context>
 <context>
@@ -1573,13 +1573,13 @@ Make sure you have read and write permissions to
 %2
 
 Octave GUI must be closed now.</source>
-        <translation>El archivo de configuración\n%1\nno existe y no puede ser creado.
-Asegúrese de que tiene permisos de escritura sobre\n%2\n\nOctave GUI se cerrará.</translation>
+        <translation>\n%1\nkonfigurazio-fitxategia ez dago eta ezin da sortu.
+Ziurta zaitez idazteko baimen guztiak dituzula honengan\n%2\n\nOctave GUI itxi egingo da.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Octave Critical Error</source>
-        <translation>Error crítico de Octave</translation>
+        <translation>Octaveren akats larria</translation>
     </message>
 </context>
 <context>
@@ -1587,27 +1587,27 @@ Asegúrese de que tiene permisos de escritura sobre\n%2\n\nOctave GUI se cerrar�
     <message>
         <location filename="../src/settings-dialog.ui" line="+29"/>
         <source>Settings</source>
-        <translation>Configuración</translation>
+        <translation>Hobespenak</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>General</source>
-        <translation>General</translation>
+        <translation>Orokorra</translation>
     </message>
     <message>
         <location line="+97"/>
         <source>Octave logo only</source>
-        <translation>Sólo logo de Octave</translation>
+        <translation>Octaveren logoa bakarrik</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Letter icons</source>
-        <translation>Iconos de letras</translation>
+        <translation>Letradun ikonoak</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Graphic icons</source>
-        <translation>Iconos gráficos</translation>
+        <translation>Ikonoak grafikoak</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -1617,93 +1617,93 @@ Asegúrese de que tiene permisos de escritura sobre\n%2\n\nOctave GUI se cerrar�
     <message>
         <location line="+71"/>
         <source>Color</source>
-        <translation>Color</translation>
+        <translation>Kolorea</translation>
     </message>
     <message>
         <location line="+120"/>
         <source>Indent width</source>
-        <translation>Ancho de sangría</translation>
+        <translation>Koska-zabalera</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Tab indents line</source>
-        <translation>Sangrar con tabulación</translation>
+        <translation>Tabulazio bidez egin koska</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Auto indentation</source>
-        <translation>Sangría automática</translation>
+        <translation>Koska automatikoa</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Tab width</source>
-        <translation>Tamaño del tabulador</translation>
+        <translation>Tabuladorearen tamaina</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show indentation guides</source>
-        <translation>Mostrar guías de sangría</translation>
+        <translation>Koska-erakusleak bistaratu</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Backspace unindents line</source>
-        <translation>La tecla de retroceso quita sangría</translation>
+        <translation>Atzera-egite teklak koska ezabatzen du</translation>
     </message>
     <message>
         <location line="+155"/>
         <source>Match keywords</source>
-        <translation>Coincidir en palabras clave</translation>
+        <translation>Hitz gakoetan bat egin</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Case sensitive</source>
-        <translation>Distinguir mayúsculas/minúsculas</translation>
+        <translation>Maiskulak/minuskulak bereizi</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Replace word by suggested one</source>
-        <translation>Sustituir palabra con sugerencia</translation>
+        <translation>Gomendio bidez hitza ordeztu</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Match words in document</source>
-        <translation>Coincidir palabras en documento</translation>
+        <translation>Dokumentuan hitzak bat etorri</translation>
     </message>
     <message>
         <location line="+61"/>
         <source>Restore editor tabs from previous session on startup</source>
-        <translation>Restaurar las pestañas del editor de la sesión anterior en el arranque </translation>
+        <translation>Berreskuratu bistean aurreko saioko editoreko fitxak</translation>
     </message>
     <message>
         <location line="+60"/>
         <source>Use custom file editor</source>
-        <translation>Utilizar editor de archivos personalizado</translation>
+        <translation>Fitxategi-editore pertsonalizatua erabili</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Editor Styles</source>
-        <translation>Estilos del editor</translation>
+        <translation>Editorearen estiloak</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select font, font size (as a difference from the default size), font style (&lt;b&gt;b&lt;/b&gt;old, &lt;b&gt;i&lt;/b&gt;talic, &lt;b&gt;u&lt;/b&gt;nderline), text color and background color (for the latter, the color pink (255,0,255) is a placeholder for the default background color).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Seleccione fuente, tamaño de fuente (como diferencia con el tamaño por defecto), estilo de fuente (&lt;b&gt;n&lt;/b&gt;egrita, &lt;b&gt;c&lt;/b&gt;ursiva, &lt;b&gt;s&lt;/b&gt;ubrayada), color de texto y color de fondo(para este último, el color rosa (255,0,255) es un marcador de posición para el color de fondo por defecto).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Letra-tipoa aukeratu, letra-tipoaren tamaina (lehenetsitako tamainarekiko aldea), letra-tipoaren estiloa (&lt;b&gt;n&lt;/b&gt;egrita, &lt;b&gt;c&lt;/b&gt;ursiva, &lt;b&gt;s&lt;/b&gt;ubrayada), testuaren eta atzeko planoaren kolorea (azken honentzat, kolore arrosa (255,0,255) kokapen-marka da atzeko planoaren lehenetsitako kolorearentzat).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+108"/>
         <source>Terminal Colors</source>
         <translatorcomment>En es_ES, terminal suele ser masculino, aunque en el español iberoamericano suele adoptarse el femenino</translatorcomment>
-        <translation>Colores del terminal</translation>
+        <translation>Terminalaren koloreak</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Font</source>
-        <translation>Tipo de fuente</translation>
+        <translation>Letra-tipoa</translation>
     </message>
     <message>
         <location line="-757"/>
         <source>Show line numbers</source>
-        <translation>Mostrar numeros de línea</translation>
+        <translation>Erakutsi lerro-zenbakiak</translation>
     </message>
     <message>
         <location line="+27"/>
