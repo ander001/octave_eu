@@ -1597,7 +1597,7 @@ Ziurta zaitez idazteko baimen guztiak dituzula honengan\n%2\n\nOctave GUI itxi e
     <message>
         <location line="+97"/>
         <source>Octave logo only</source>
-        <translation>Octaveren logoa bakarrik</translation>
+        <translation>Logoa bakarrik</translation>
     </message>
     <message>
         <location line="+10"/>
