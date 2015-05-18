@@ -1445,7 +1445,7 @@ or enable web connections for news in Octave&apos;s network settings dialog.
         <translation>&lt;html&gt;
 &lt;body&gt;
 &lt;p&gt;
-Octaveren gaineko azken berritasunak bistaratzeko web-konexioa ezgaitu da.
+Octaveren gaineko azken berriak bistaratzeko web-konexioa ezgaitu da.
 &lt;/p&gt;
 &lt;p&gt;
 Azken berritasunak ezagutzeko, bisita ezazu
@@ -1672,7 +1672,7 @@ Ziurta zaitez idazteko baimen guztiak dituzula honengan\n%2\n\nOctave GUI itxi e
     <message>
         <location line="+61"/>
         <source>Restore editor tabs from previous session on startup</source>
-        <translation>Berreskuratu bistean aurreko saioko editoreko fitxak</translation>
+        <translation>Berreskuratu aurreko saioko editoreko fitxak bistean</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -1692,7 +1692,7 @@ Ziurta zaitez idazteko baimen guztiak dituzula honengan\n%2\n\nOctave GUI itxi e
     <message>
         <location line="+108"/>
         <source>Terminal Colors</source>
-        <translatorcomment>En es_ES, terminal suele ser masculino, aunque en el español iberoamericano suele adoptarse el femenino</translatorcomment>
+        <translatorcomment>Iruzkinik ez</translatorcomment>
         <translation>Terminalaren koloreak</translation>
     </message>
     <message>
@@ -1708,72 +1708,72 @@ Ziurta zaitez idazteko baimen guztiak dituzula honengan\n%2\n\nOctave GUI itxi e
     <message>
         <location line="+27"/>
         <source>Highlight current line</source>
-        <translation>Resaltar línea actual</translation>
+        <translation>Momentuko lerroa nabarmendu</translation>
     </message>
     <message>
         <location line="+262"/>
         <source>Code completion</source>
-        <translation>Autocompletar código</translation>
+        <translation>Modu automatikoan osatu kodea</translation>
     </message>
     <message>
         <location line="-282"/>
         <source>Show complete path in window title</source>
-        <translation>Mostrar ruta completa en el título de la ventana</translation>
+        <translation>Erakutsi helbidea osorik leihoaren tituluan</translation>
     </message>
     <message>
         <location line="-17"/>
         <source>Show whitespace</source>
-        <translation>Mostrar espacios en blanco</translation>
+        <translation>Zuriuneak erakutsi</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Do not show whitespace used for indentation</source>
-        <translation>No mostrar los espacios usados para la sangría</translation>
+        <translation>Koskarako tarte-libreak ez erakutsi</translation>
     </message>
     <message>
         <location line="+290"/>
         <source># of characters typed before completion list displayed</source>
-        <translation># de caracteres pulsados antes de completar la lista desplegada</translation>
+        <translation># idatzitako karaktereak bistaratutako lista bete baino lehen</translation>
     </message>
     <message>
         <location line="+194"/>
         <source>Create nonexistent files without prompting</source>
-        <translation>Crear archivos no existentes sin consultar</translation>
+        <translation>Ez dauden fitxategiak galdetu gabe sortu</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>command line (%f=file, %l=line):</source>
-        <translation>línea de comando(%f=archivo, %l=linea):</translation>
+        <translation>komandoko lerroa (%f=fitxategia, %l=lerroa):</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>emacs</source>
-        <translation>emacs</translation>
+        <translation>emacak</translation>
     </message>
     <message>
         <location line="+67"/>
         <source>Terminal</source>
-        <translation>Terminal</translation>
+        <translation>Terminala</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Cursor type:</source>
-        <translation>Tipo de cursor:</translation>
+        <translation>Kurtsore-mota:</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Cursor blinking</source>
-        <translation>Cursor parpadeante</translation>
+        <translation>Dir-dir egiten duen kurtsorea</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Use foreground color</source>
-        <translation>Usar color de primer plano</translation>
+        <translation>Lehenengo planoko kurtsorea</translation>
     </message>
     <message>
         <location line="+94"/>
         <source>Font size</source>
-        <translation>Tamaño de fuente</translation>
+        <translation>Letra-tipoaren tamaina</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -1783,27 +1783,27 @@ Ziurta zaitez idazteko baimen guztiak dituzula honengan\n%2\n\nOctave GUI itxi e
     <message>
         <location line="+6"/>
         <source>Show file size</source>
-        <translation>Mostrar tamaño de archivo</translation>
+        <translation>Erakutsi fitxategiaren neurria</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show file type</source>
-        <translation>Mostrar tipo de archivo</translation>
+        <translation>Erakutsi fitxategi-mota</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show date of last modification</source>
-        <translation>Mostrar fecha de la última modificación</translation>
+        <translation>Erakutsi azken aldaketaren data</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show hidden files</source>
-        <translation>Mostrar archivos ocultos</translation>
+        <translation>Erakutsi ezkutuko fitxategiak</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Alternating row colors</source>
-        <translation>Alternar colores de filas</translation>
+        <translation>Txandakatu lerroen koloreak</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1813,22 +1813,22 @@ Ziurta zaitez idazteko baimen guztiak dituzula honengan\n%2\n\nOctave GUI itxi e
     <message>
         <location line="+30"/>
         <source>Storage Class Colors</source>
-        <translation>Colores para las clases de almacenamiento</translation>
+        <translation>Biltegiratze-moten koloreak</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Network</source>
-        <translation>Red</translation>
+        <translation>Sarea</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Allow Octave to connect to the Octave web site to display current news and information</source>
-        <translation>Permitir a Octave la conexión al sitio web para desplegar las últimas noticias e información</translation>
+        <translation>Octaveri baimena eman web-gunera konekta dadin azken berriak eta informazioa eskuratzeko</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Use proxy server</source>
-        <translation>Utilizar servidor &quot;proxy&quot;</translation>
+        <translation>Erabili&quot;proxy&quot;zerbitzaria</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -1838,22 +1838,22 @@ Ziurta zaitez idazteko baimen guztiak dituzula honengan\n%2\n\nOctave GUI itxi e
     <message>
         <location line="-1129"/>
         <source>Icon set for dock widgets</source>
-        <translation>Iconos para widget acoplados</translation>
+        <translation>Aklopatutako widgetentzako ikonoak</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Language (requires restart)</source>
-        <translation>Lenguaje (reinicio requerido)</translation>
+        <translation>Hizkuntza (berrabiaraztea nahitaezkoa)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Icon size</source>
-        <translation>Tamaño de icono</translation>
+        <translation>Ikonoaren tamaina</translation>
     </message>
     <message>
         <location line="+991"/>
         <source>Synchronize Octave working directory with file browser</source>
-        <translation>Sincronizar el directorio de trabajo de Octave con el explorador de archivos</translation>
+        <translation>Sinkronizatu Octaveren lan-direktorioa fitxategi-arakatzailearekin</translation>
     </message>
     <message>
         <location line="+129"/>
@@ -1863,59 +1863,59 @@ Ziurta zaitez idazteko baimen guztiak dituzula honengan\n%2\n\nOctave GUI itxi e
     <message>
         <location line="-16"/>
         <source>Hostname:</source>
-        <translation>Nombre del host:</translation>
+        <translation>Hostaren izena:</translation>
     </message>
     <message>
         <location line="+44"/>
         <source>Proxy type:</source>
-        <translation>Tipo de proxy:</translation>
+        <translation>Proxy-mota:</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Port:</source>
-        <translation>Puerto:</translation>
+        <translation>Portua:</translation>
     </message>
     <message>
         <location line="-27"/>
         <source>Username:</source>
-        <translation>Nombre de usuario:</translation>
+        <translation>Erabiltzailearen izena:</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>Password:</source>
-        <translation>Contraseña:</translation>
+        <translation>Pasahitza:</translation>
     </message>
     <message>
         <location filename="../src/settings-dialog.cc" line="+71"/>
         <location line="+4"/>
         <location line="+389"/>
         <source>System setting</source>
-        <translation>Configuración del sistema</translation>
+        <translation>Sistemaren ezarpenak</translation>
     </message>
     <message>
         <location line="-286"/>
         <source>IBeam Cursor</source>
-        <translation>Cursor IBeam</translation>
+        <translation>IBeam kurtsorea</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Block Cursor</source>
-        <translation>Cursor de bloque</translation>
+        <translation>Bloke-erako kurtsorea</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Underline Cursor</source>
-        <translation>Cursor de subrayado</translation>
+        <translation>Azpimarratze-kurtsorea</translation>
     </message>
     <message>
         <location line="+144"/>
         <source>Difference to the default size</source>
-        <translation>Diferencia con el tamaño predeterminado</translation>
+        <translation>Lehenetsitako tamainarekiko aldea</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Background color, pink (255,0,255) means default</source>
-        <translation>Color de fondo, rosa (255,0,255) significa predeterminado</translation>
+        <translation>Kolore arrosak (255,0,255) lehenetsia ezan nahi du</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1941,22 +1941,22 @@ Ziurta zaitez idazteko baimen guztiak dituzula honengan\n%2\n\nOctave GUI itxi e
     <message>
         <location filename="../src/welcome-wizard.cc" line="+44"/>
         <source>Community News</source>
-        <translation>Noticias de la comunidad</translation>
+        <translation>Komunitatearen berriak</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Previous</source>
-        <translation>Anterior</translation>
+        <translation>Aurrekoa</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Next</source>
-        <translation>Siguiente</translation>
+        <translation>Hurrengoa</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1967,9 +1967,9 @@ The check will happen at most once each day and news will only be displayed if t
 &lt;a href=&quot;http://octave.org/community-news.html&quot;&gt;http://octave.org/community-news.html&lt;/a&gt;.&lt;/p&gt;
 &lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;body&gt;
-&lt;p&gt;Cuando la GUI de Octave se inicia, chequeará el sitio web de Octave para obtener novedades e información acerca de la comunidad.
-Esta verificación se hará una vez cada día como máximo, y las noticias serán desplegadas únicamente si hay algo nuevo desde la última vez que se vieron.&lt;/p&gt;
-&lt;p&gt;También puede revisar las noticias seleccionando &quot;Noticias de la Comunidad&quot; en el menú de ayuda en la GUI o visitando
+&lt;p&gt;Octaveren GUIa abiarazten denean, Octaveren web-gunea txekeatuko du Octaveren komunitatearen gaineko berriak eta informazioa jasotzeko.
+Azterketa hori egunean baten egingo da gehienez, eta aldez aurretik ikusi ez diren berriak baino ez dira erakutsiko.&lt;/p&gt;
+&lt;p&gt;Berriak txekeatu ahalko dira &quot;Komunitatearen berriak&quot; atalean, GUIaren laguntza-menuan edo honakoei bisita eginda
 &lt;a href=&quot;http://octave.org/community-news.html&quot;&gt;http://octave.org/community-news.html&lt;/a&gt;.&lt;/p&gt;
 &lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -1987,7 +1987,7 @@ a:link { text-decoration: underline; color: #0000ff; }
 a:link { text-decoration: underline; color: #0000ff; }
 &lt;/style&gt;
 &lt;head/&gt;&lt;body&gt;
-&lt;p&gt;Permitir la conexión con el sitio web de Octave al arranque para desplegar novedades e información acerca de la comunidad.&lt;/p&gt;
+&lt;p&gt;Baimendu Octaveren web-gunerako konexioa abiaraztean, Octavek komunitatearen gaineko momentuko berriak eta informazioa bistara ditzan.&lt;/p&gt;
 &lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
@@ -2017,7 +2017,7 @@ a:link { text-decoration: underline; color: #0000ff; }
     <message>
         <location filename="../src/welcome-wizard.cc" line="+135"/>
         <source>Welcome to GNU Octave</source>
-        <translation>Bienvenido a GNU Octave</translation>
+        <translation>Ongi etorri GNU Octavera</translation>
     </message>
 </context>
 <context>
@@ -2050,13 +2050,13 @@ a:link { text-decoration: underline; color: #0000ff; }
     <message>
         <location line="+109"/>
         <source>Right click to copy, rename, or display</source>
-        <translation>Clic derecho para copiar, renombrar o mostrar</translation>
+        <translation>Eskumako klik kopiatzeko, izena aldatzeko edo erakusteko</translation>
     </message>
     <message>
         <location line="+37"/>
         <location line="+2"/>
         <source>complex</source>
-        <translation>complejo</translation>
+        <translation>konplexu</translation>
     </message>
 </context>
 <context>
@@ -2069,32 +2069,32 @@ a:link { text-decoration: underline; color: #0000ff; }
     <message>
         <location line="+1"/>
         <source>View the variables in the active workspace.</source>
-        <translation>Ver variables en el espacio de trabajo activo.</translation>
+        <translation>Erakutsi aldagaiak lan-eremu aktiboan.</translation>
     </message>
     <message>
         <location line="+76"/>
         <source>Copy</source>
-        <translation>Copiar</translation>
+        <translation>Kopiatu</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Rename</source>
-        <translation>Renombrar</translation>
+        <translation>Aldatu izena</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Only top-level symbols may be renamed.</source>
-        <translation>Sólo los símbolos de alto nivel pueden ser renombrados.</translation>
+        <translation>Maila altuko sinboloei soilik alda dakieke izena.</translation>
     </message>
     <message>
         <location line="+125"/>
         <source>View the variables in the active workspace.&lt;br&gt;</source>
-        <translation>Ver las variables del espacio de trabajo activo.&lt;br&gt;</translation>
+        <translation>Erakutsi aldagaiak lan-eremu aktiboan.&lt;br&gt;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Colors for the storage class:</source>
-        <translation>Colores para cada clase de almacenamiento:</translation>
+        <translation>Biltegiratze-mota bakoitzerako koloreak:</translation>
     </message>
 </context>
 </TS>
