@@ -1607,7 +1607,7 @@ Ziurta zaitez idazteko baimen guztiak dituzula honengan\n%2\n\nOctave GUI itxi e
     <message>
         <location line="+7"/>
         <source>Graphic icons</source>
-        <translation>Ikonoak grafikoak</translation>
+        <translation>Ikono grafikoak</translation>
     </message>
     <message>
         <location line="+39"/>
