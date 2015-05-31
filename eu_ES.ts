@@ -1672,7 +1672,7 @@ Ziurta zaitez idazteko baimen guztiak dituzula honengan\n%2\n\nOctave GUI itxi e
     <message>
         <location line="+61"/>
         <source>Restore editor tabs from previous session on startup</source>
-        <translation>Berreskuratu aurreko saioko editoreko fitxak bistean</translation>
+        <translation>Abiaraztean berreskuratu aurreko saioko editoreko fitxak</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -1718,7 +1718,7 @@ Ziurta zaitez idazteko baimen guztiak dituzula honengan\n%2\n\nOctave GUI itxi e
     <message>
         <location line="-282"/>
         <source>Show complete path in window title</source>
-        <translation>Erakutsi helbidea osorik leihoaren tituluan</translation>
+        <translation>Erakutsi leihoaren tituluan helbidea osorik</translation>
     </message>
     <message>
         <location line="-17"/>
