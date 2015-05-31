@@ -1763,12 +1763,12 @@ Ziurta zaitez idazteko baimen guztiak dituzula honengan\n%2\n\nOctave GUI itxi e
     <message>
         <location line="+23"/>
         <source>Cursor blinking</source>
-        <translation>Dir-dir egiten duen kurtsorea</translation>
+        <translation>Kurtsore keinukaria</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Use foreground color</source>
-        <translation>Lehenengo planoko kurtsorea</translation>
+        <translation>1. planoko kurtsorea</translation>
     </message>
     <message>
         <location line="+94"/>
