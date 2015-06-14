@@ -1687,7 +1687,7 @@ Ziurta zaitez idazteko baimen guztiak dituzula honengan\n%2\n\nOctave GUI itxi e
     <message>
         <location line="+24"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select font, font size (as a difference from the default size), font style (&lt;b&gt;b&lt;/b&gt;old, &lt;b&gt;i&lt;/b&gt;talic, &lt;b&gt;u&lt;/b&gt;nderline), text color and background color (for the latter, the color pink (255,0,255) is a placeholder for the default background color).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Letra-tipoa aukeratu, letra-tipoaren tamaina (lehenetsitako tamainarekiko aldea), letra-tipoaren estiloa (&lt;b&gt;n&lt;/l&gt;dia, &lt;b&gt;e&lt;/b&gt;tzana, &lt;b&gt;a&lt;/b&gt;zpimarratua), testuaren kolorea eta atzeko planoaren kolorea (azken honetan, lehenetsitako kolorearentzat kolore arrosa (255,0,255) kokapen-marka da).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Letra-tipoa aukeratu, letra-tipoaren tamaina (lehenetsitako tamainarekiko aldea), letra-tipoaren estiloa (&lt;b&gt;l&lt;/b&gt;odia, &lt;b&gt;e&lt;/b&gt;tzana, &lt;b&gt;a&lt;/b&gt;zpimarratua), testuaren kolorea eta atzeko planoaren kolorea (azken honetan, lehenetsitako kolorearentzat kolore arrosa (255,0,255) kokapen-marka da).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+108"/>
