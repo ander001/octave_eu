@@ -3435,7 +3435,7 @@ ya se utiliza para la acción
     <message>
         <location line="+4"/>
         <source>Global search</source>
-        <translation>Búsqueda global</translation>
+        <translation>Bilaketa orokorra</translation>
     </message>
     <message>
         <location line="+18"/>
