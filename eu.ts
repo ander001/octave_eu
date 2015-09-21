@@ -14,7 +14,7 @@
     <message>
         <location filename="../src/workspace-model.cc" line="+75"/>
         <source>automatic</source>
-        <translation>automático</translation>
+        <translation>automatikoa</translation>
     </message>
     <message>
         <location line="+1"/>
