@@ -24,17 +24,17 @@
     <message>
         <location line="+1"/>
         <source>global</source>
-        <translation>global</translation>
+        <translation>globala</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>hidden</source>
-        <translation>oculto</translation>
+        <translation>ezkutua</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>inherited</source>
-        <translation>heredado</translation>
+        <translation>heredatua</translation>
     </message>
     <message>
         <location line="+1"/>
