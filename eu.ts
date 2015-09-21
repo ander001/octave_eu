@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="es">
+<TS version="2.0" language="eu">
 <context>
     <name>ListDialog</name>
     <message>
         <location filename="../src/dialog.cc" line="+251"/>
         <source>Select All</source>
-        <translation>Seleccionar todo</translation>
+        <translation>Hautatu dena</translation>
     </message>
 </context>
 <context>
@@ -24,7 +24,7 @@
     <message>
         <location line="+1"/>
         <source>global</source>
-        <translation>globala</translation>
+        <translation>orokorra</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -39,28 +39,27 @@
     <message>
         <location line="+1"/>
         <source>persistent</source>
-        <translation>persistente</translation>
+        <translation>iraunkorra</translation>
     </message>
     <message>
         <location filename="../qterminal/libqterminal/QTerminal.cc" line="+65"/>
         <source>foreground</source>
-        <translation>primer plano</translation>
+        <translation>aurreko planoa</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>background</source>
-        <translatorcomment>La interpretación correcta en castellano de background es &apos;segundo plano&apos;, en lugar del literal &apos;plano de fondo&apos;</translatorcomment>
-        <translation>segundo plano</translation>
+        <translation>atzeko planoa</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>selection</source>
-        <translation>selección</translation>
+        <translation>hautapena</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>cursor</source>
-        <translation>cursor</translation>
+        <translation>kurtsorea</translation>
     </message>
 </context>
 <context>
@@ -68,22 +67,22 @@
     <message>
         <location filename="../qterminal/libqterminal/QTerminal.h" line="+135"/>
         <source>Copy</source>
-        <translation>Copiar</translation>
+        <translation>Kopiatu</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Paste</source>
-        <translation>Pegar</translation>
+        <translation>Itsatsi</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Select All</source>
-        <translation>Seleccionar todo</translation>
+        <translation>Hautatu dena</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Clear Window</source>
-        <translation>Limpiar ventana</translation>
+        <translation>Garbitu leihoa</translation>
     </message>
 </context>
 <context>
@@ -91,7 +90,7 @@
     <message>
         <location filename="../qterminal/libqterminal/win32/QWinTerminalImpl.cpp" line="+1778"/>
         <source>copied selection to clipboard</source>
-        <translation>selección copiada al portapapeles</translation>
+        <translation>arbelean kopiatutako aukeraketa</translation>
     </message>
 </context>
 <context>
