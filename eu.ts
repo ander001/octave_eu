@@ -98,12 +98,12 @@
     <message>
         <location filename="../graphics/Figure.cc" line="+282"/>
         <source>Figure ToolBar</source>
-        <translation>Barra de herramientas de figura</translation>
+        <translation>Irudien tresna-barra</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Axes</source>
-        <translation>Ejes</translation>
+        <translation>Ardatza</translation>
     </message>
     <message>
         <location line="+4"/>
