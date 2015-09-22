@@ -201,17 +201,17 @@
     <message>
         <location line="+4"/>
         <source>Pan</source>
-        <translation>Mover</translation>
+        <translation>Mugitu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Insert Text</source>
-        <translation>Insertar texto</translation>
+        <translation>Testua sartu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Select</source>
-        <translation>Seleccionar</translation>
+        <translation>Aukeratu</translation>
     </message>
 </context>
 <context>
@@ -219,12 +219,12 @@
     <message>
         <location filename="../src/documentation-dock-widget.cc" line="+34"/>
         <source>Documentation</source>
-        <translation>Documentación</translation>
+        <translation>Dokumentazioa</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>See the documentation for help.</source>
-        <translation>Consulte la documentación para obtener ayuda.</translation>
+        <translation>Laguntzeko dokumentazioa ikusi.</translation>
     </message>
 </context>
 <context>
@@ -237,17 +237,17 @@
         <location line="+62"/>
         <location line="+28"/>
         <source>Octave Editor</source>
-        <translation>Editor de Octave</translation>
+        <translation>Octaveren editorea</translation>
     </message>
     <message>
         <location line="-318"/>
         <source>Octave Files (*.m);;All Files (*)</source>
-        <translation>Archivos de Octave (*.m);;Todos los archivos (*)</translation>
+        <translation>Octaveren fitxategiak (*.m);;Fitxategi guztiak (*)</translation>
     </message>
     <message>
         <location line="-40"/>
         <source>New Function</source>
-        <translation>Nueva función</translation>
+        <translation>Funtzio berria</translation>
     </message>
     <message>
         <location line="+718"/>
@@ -257,17 +257,17 @@
     <message>
         <location line="+388"/>
         <source>&amp;Save File</source>
-        <translation>&amp;Guardar archivo</translation>
+        <translation>&amp;Fitxategia gorde</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Save File &amp;As...</source>
-        <translation>Guardar archivo &amp;como...</translation>
+        <translation>Fitxategia gorde &amp;bezala...</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Print...</source>
-        <translation>Imprimir...</translation>
+        <translation>Imprimatu...</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -277,38 +277,38 @@
     <message>
         <location line="+3"/>
         <source>&amp;Redo</source>
-        <translation>&amp;Rehacer</translation>
+        <translation>&amp;Desegin</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&amp;Copy</source>
-        <translation>&amp;Copiar</translation>
+        <translation>&amp;Kopiatu</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cu&amp;t</source>
-        <translation>Cor&amp;tar</translation>
+        <translation>Eba&amp;ki</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Paste</source>
-        <translation>Pegar</translation>
+        <translation>Itsatsi</translation>
     </message>
     <message>
         <location line="+96"/>
         <source>&amp;Next Bookmark</source>
-        <translation>Siguiente &amp;marcador</translation>
+        <translation>Hurrengo &amp;markatzailea</translation>
     </message>
     <message>
         <location line="-2"/>
         <source>Pre&amp;vious Bookmark</source>
-        <translation>Marcador &amp;anterior</translation>
+        <translation>Aurreko &amp;markatzailea</translation>
     </message>
     <message>
         <location line="-1237"/>
         <source>New function name:
 </source>
-        <translation>Nombre para la nueva función:
+        <translation>Funtzio berriaren izena:
 </translation>
     </message>
     <message>
