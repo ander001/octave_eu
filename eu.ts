@@ -1189,7 +1189,7 @@ a:link { text-decoration: underline; color: #0000ff; }
     <message>
         <location line="+1"/>
         <source>No more matches found</source>
-        <translation>Ez dago bat-etortze gehiago</translation>
+        <translation>Ez dago bat etortze gehiago</translation>
     </message>
 </context>
 <context>
@@ -1332,7 +1332,7 @@ a:link { text-decoration: underline; color: #0000ff; }
     <message>
         <location line="+23"/>
         <source>%1 match(es)</source>
-        <translation>%1 bat-etortze(ak)</translation>
+        <translation>%1 bat etortze(ak)</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1729,7 +1729,7 @@ Sakatu &apos;Hurrengoa&apos; konfigurazio-fitxategi bat sortzeko eta Octave abia
     <message>
         <location line="+5"/>
         <source>Command Window</source>
-        <translation>Komandoren leihoa</translation>
+        <translation>Komandoen leihoa</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1885,7 +1885,7 @@ fitxategia ez dago. Sortu nahi duzu?</translation>
     <message>
         <location line="+211"/>
         <source>The file %1 does not exist in the load path.  To run or debug the function you are editing, you must either change to the directory %2 or add that directory to the load path.</source>
-        <translation>%1 fitxategia ez dago kargatze-helbidean. Editatzen ari zaren funtzioa akasgabetzeko, bi daukera dituzu: %2 direktoriora aldatzea edo direktorio hori kargatze-helbidera gehitzea.</translation>
+        <translation>%1 fitxategia ez dago kargatze-helbidean. Editatzen ari zaren funtzioa akasgabetzeko, bi aukera dituzu: %2 direktoriora aldatzea edo direktorio hori kargatze-helbidera gehitzea.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2008,260 +2008,259 @@ Octaveren ingurune grafikoa itxi egin behar da.</translation>
         <location line="+92"/>
         <location filename="../src/ui-settings-dialog.h" line="+4"/>
         <source>These preferences are applied after any .octaverc startup files.</source>
-        <translation>Estas configuraciones se aplicarán después de la ejecución de los ficheros de inicio .octaverc</translation>
+        <translation>Hobespenok .octavercse hasierako fitxategiak exekutatu ondoren izango dute eragina</translation>
     </message>
     <message>
         <location line="+55"/>
         <location filename="../src/ui-settings-dialog.h" line="+3"/>
         <source>Restore working directory of previous session</source>
-        <translation>Restaurar el directorio de trabajo de la sesión anterior</translation>
+        <translation>Berreskuratu aurreko saioko lan-direktorioa</translation>
     </message>
     <message>
         <location line="+33"/>
         <location filename="../src/ui-settings-dialog.h" line="+58"/>
         <source>Editor</source>
-        <translation>Editor</translation>
+        <translation>Editorea</translation>
     </message>
     <message>
         <location line="+151"/>
         <location filename="../src/ui-settings-dialog.h" line="-49"/>
         <source>Color</source>
-        <translation>Color</translation>
+        <translation>Kolorea</translation>
     </message>
     <message>
         <location line="+138"/>
         <location filename="../src/ui-settings-dialog.h" line="+6"/>
         <source>Draw a long line marker</source>
-        <translation>Mostrar marcador de longitud de línea</translation>
+        <translation>Erakutsi lerro-luzera markatzailea</translation>
     </message>
     <message>
         <location line="+48"/>
         <location filename="../src/ui-settings-dialog.h" line="+3"/>
         <source>Show EOL characters</source>
-        <translation>Mostrar caracteres de fin de línea</translation>
+        <translation>Erakutsi lerro-bukaerako karaktereak</translation>
     </message>
     <message>
         <location line="+9"/>
         <location filename="../src/ui-settings-dialog.h" line="+1"/>
         <source>Default EOL mode</source>
-        <translation>Identificador de fin de línea por defecto</translation>
+        <translation>Lehenetsitako lerro-bukaera adierazlea</translation>
     </message>
     <message>
         <location line="+154"/>
         <location filename="../src/ui-settings-dialog.h" line="+12"/>
         <source>Indent width</source>
-        <translation>Ancho de sangría</translation>
+        <translation>Koska zabalera</translation>
     </message>
     <message>
         <location line="+7"/>
         <location filename="../src/ui-settings-dialog.h" line="+1"/>
         <source>Tab indents line</source>
-        <translation>Sangrar con tabulación</translation>
+        <translation>Tabulazio bidez egin koska</translation>
     </message>
     <message>
         <location line="+7"/>
         <location filename="../src/ui-settings-dialog.h" line="+1"/>
         <source>Auto indentation</source>
-        <translation>Sangría automática</translation>
+        <translation>Koska automatikoa</translation>
     </message>
     <message>
         <location line="+26"/>
         <location filename="../src/ui-settings-dialog.h" line="+1"/>
         <source>Tab width</source>
-        <translation>Tamaño del tabulador</translation>
+        <translation>Tabuladorearen tamaina</translation>
     </message>
     <message>
         <location line="+7"/>
         <location filename="../src/ui-settings-dialog.h" line="+1"/>
         <source>Show indentation guides</source>
-        <translation>Mostrar guías de sangría</translation>
+        <translation>Erakutsi koska-erakusleak</translation>
     </message>
     <message>
         <location line="+23"/>
         <location filename="../src/ui-settings-dialog.h" line="+1"/>
         <source>Backspace unindents line</source>
-        <translation>La tecla de retroceso quita sangría</translation>
+        <translation>Atzera-egite teklak koska ezabatzen du</translation>
     </message>
     <message>
         <location line="+88"/>
         <location filename="../src/ui-settings-dialog.h" line="+3"/>
         <source>Match keywords</source>
-        <translation>Coincidir en palabras clave</translation>
+        <translation>Hitz gakoetan bat egin</translation>
     </message>
     <message>
         <location line="+13"/>
         <location filename="../src/ui-settings-dialog.h" line="+1"/>
         <source>Case sensitive</source>
-        <translation>Distinguir mayúsculas/minúsculas</translation>
+        <translation>Maiskulak/minuskulak bereizi</translation>
     </message>
     <message>
         <location line="+23"/>
         <location filename="../src/ui-settings-dialog.h" line="+2"/>
         <source>Replace word by suggested one</source>
-        <translation>Sustituir palabra con sugerencia</translation>
+        <translation>Gomendio bidez hitza ordeztu</translation>
     </message>
     <message>
         <location line="-10"/>
         <location filename="../src/ui-settings-dialog.h" line="-1"/>
         <source>Match words in document</source>
-        <translation>Coincidir palabras en documento</translation>
+        <translation>Dokumentuan hitzak bat etorri</translation>
     </message>
     <message>
         <location line="+173"/>
         <location filename="../src/ui-settings-dialog.h" line="+14"/>
         <source>Restore editor tabs from previous session on startup</source>
-        <translation>En el arranque, restaurar las pestañas del editor de la sesión anterior</translation>
+        <translation>Abiaraztean berreskuratu aurreko saioko editoreko fitxak</translation>
     </message>
     <message>
         <location line="-426"/>
         <location filename="../src/ui-settings-dialog.h" line="-28"/>
         <source>Use custom file editor</source>
-        <translation>Utilizar editor de archivos personalizado</translation>
+        <translation>Fitxategi-editore pertsonalizatua erabili</translation>
     </message>
     <message>
         <location line="+482"/>
         <location filename="../src/ui-settings-dialog.h" line="+33"/>
         <source>Editor Styles</source>
-        <translation>Estilos del editor</translation>
+        <translation>Editorearen estiloak</translation>
     </message>
     <message>
         <location line="+287"/>
         <location filename="../src/ui-settings-dialog.h" line="+10"/>
         <source>Terminal Colors</source>
-        <translatorcomment>En es_ES, terminal suele ser masculino, aunque en el español iberoamericano suele adoptarse el femenino</translatorcomment>
-        <translation>Colores del terminal</translation>
+        <translation>Terminalaren koloreak</translation>
     </message>
     <message>
         <location line="-173"/>
         <location filename="../src/ui-settings-dialog.h" line="-6"/>
         <source>Font</source>
-        <translation>Tipo de fuente</translation>
+        <translation>Letra-tipo mota</translation>
     </message>
     <message>
         <location line="-917"/>
         <location filename="../src/ui-settings-dialog.h" line="-58"/>
         <source>Show line numbers</source>
-        <translation>Mostrar numeros de línea</translation>
+        <translation>Erakutsi lerro-zenbakiak</translation>
     </message>
     <message>
         <location line="-72"/>
         <location filename="../src/ui-settings-dialog.h" line="-3"/>
         <source>Highlight current line</source>
-        <translation>Resaltar línea actual</translation>
+        <translation>Momentuko lerroa nabarmendu</translation>
     </message>
     <message>
         <location line="+85"/>
         <location filename="../src/ui-settings-dialog.h" line="+4"/>
         <source>Show complete path in window title</source>
-        <translation>Mostrar ruta completa en el título de la ventana</translation>
+        <translation>Erakutsi helbidea osorik leihoaren tituluan</translation>
     </message>
     <message>
         <location line="-29"/>
         <location filename="../src/ui-settings-dialog.h" line="-2"/>
         <source>Show whitespace</source>
-        <translation>Mostrar espacios en blanco</translation>
+        <translation>Erakutsi zuriuneak</translation>
     </message>
     <message>
         <location line="+39"/>
         <location filename="../src/ui-settings-dialog.h" line="+3"/>
         <source>Do not show whitespace used for indentation</source>
-        <translation>No mostrar los espacios usados para la sangría</translation>
+        <translation>Ez erakutsi koskarako tarte-libreak</translation>
     </message>
     <message>
         <location line="+625"/>
         <location filename="../src/ui-settings-dialog.h" line="+37"/>
         <source>Number of characters before list is shown: </source>
-        <translation>Número de caracteres a escribir antes de mostrar la lista</translation>
+        <translation>Idatzitako karaktere-kopurua bistaratutako lista bete baino lehen: </translation>
     </message>
     <message>
         <location line="+112"/>
         <location filename="../src/ui-settings-dialog.h" line="+11"/>
         <source>Create nonexistent files without prompting</source>
-        <translation>Crear archivos no existentes sin consultar</translation>
+        <translation>Ez dauden fitxategiak galdetu gabe sortu</translation>
     </message>
     <message>
         <location line="-429"/>
         <location filename="../src/ui-settings-dialog.h" line="-28"/>
         <source>command line (%f=file, %l=line):</source>
-        <translation>línea de comando (%f=archivo, %l=linea):</translation>
+        <translation>komandoko lerroa (%f=fitxategia, %l=lerroa):</translation>
     </message>
     <message>
         <location line="+521"/>
         <location filename="../src/ui-settings-dialog.h" line="+43"/>
         <source>Terminal</source>
-        <translation>Terminal</translation>
+        <translation>Terminala</translation>
     </message>
     <message>
         <location line="+51"/>
         <location filename="../src/ui-settings-dialog.h" line="-8"/>
         <source>Cursor type:</source>
-        <translation>Tipo de cursor:</translation>
+        <translation>Kurtsore-mota:</translation>
     </message>
     <message>
         <location line="-11"/>
         <location filename="../src/ui-settings-dialog.h" line="-1"/>
         <source>Cursor blinking</source>
-        <translation>Cursor parpadeante</translation>
+        <translation>Kurtsore keinukaria</translation>
     </message>
     <message>
         <location line="-7"/>
         <location filename="../src/ui-settings-dialog.h" line="-1"/>
         <source>Use foreground color</source>
-        <translation>Usar color de primer plano</translation>
+        <translation>Erabili lehenengo planoko kolorea</translation>
     </message>
     <message>
         <location line="+59"/>
         <location filename="../src/ui-settings-dialog.h" line="+4"/>
         <source>Font size</source>
-        <translation>Tamaño de fuente</translation>
+        <translation>Letra-tipoaren tamaina</translation>
     </message>
     <message>
         <location line="+123"/>
         <location filename="../src/ui-settings-dialog.h" line="+3"/>
         <source>Set focus to terminal when running a command from within another widget</source>
-        <translation>Foco al terminal cuando se ejecute un comando desde otro widget</translation>
+        <translation>Joan terminalera beste widget batetik agindu bat exekutatzen denean</translation>
     </message>
     <message>
         <location line="+73"/>
         <location filename="../src/ui-settings-dialog.h" line="+15"/>
         <source>File Browser</source>
-        <translation>Explorador de archivos</translation>
+        <translation>Fitxategi-arakatzailea</translation>
     </message>
     <message>
         <location line="+46"/>
         <location filename="../src/ui-settings-dialog.h" line="-8"/>
         <source>Show file size</source>
-        <translation>Mostrar tamaño de archivo</translation>
+        <translation>Erakutsi fitxategiaren neurria</translation>
     </message>
     <message>
         <location line="-14"/>
         <location filename="../src/ui-settings-dialog.h" line="-2"/>
         <source>Show file type</source>
-        <translation>Mostrar tipo de archivo</translation>
+        <translation>Erakutsi fitxategi-mota</translation>
     </message>
     <message>
         <location line="+21"/>
         <location filename="../src/ui-settings-dialog.h" line="+3"/>
         <source>Show date of last modification</source>
-        <translation>Mostrar fecha de la última modificación</translation>
+        <translation>Erakutsi azken aldaketaren data</translation>
     </message>
     <message>
         <location line="-14"/>
         <location filename="../src/ui-settings-dialog.h" line="-2"/>
         <source>Show hidden files</source>
-        <translation>Mostrar archivos ocultos</translation>
+        <translation>Erakutsi ezkutuko fitxategiak</translation>
     </message>
     <message>
         <location line="-1715"/>
         <location filename="../src/ui-settings-dialog.h" line="-97"/>
         <source>Interface</source>
-        <translation>Interfaz</translation>
+        <translation>Interfazea</translation>
     </message>
     <message>
         <location line="+52"/>
         <location filename="../src/ui-settings-dialog.h" line="+3"/>
         <source>Confirm before exiting</source>
-        <translation>Confirmar antes de salir</translation>
+        <translation>Berretsi irten aurretik</translation>
     </message>
     <message>
         <location line="+103"/>
@@ -2269,13 +2268,13 @@ Octaveren ingurune grafikoa itxi egin behar da.</translation>
         <location filename="../src/ui-settings-dialog.h" line="+9"/>
         <location line="+28"/>
         <source>Show status bar</source>
-        <translation>Mostrar barra de estado</translation>
+        <translation>Erakutsi egoera-barra</translation>
     </message>
     <message>
         <location line="-540"/>
         <location filename="../src/ui-settings-dialog.h" line="-26"/>
         <source>Text inactive</source>
-        <translation>Texto inactivo</translation>
+        <translation>Testua ezgaituta</translation>
     </message>
     <message>
         <location line="-32"/>
@@ -2283,7 +2282,7 @@ Octaveren ingurune grafikoa itxi egin behar da.</translation>
         <location filename="../src/ui-settings-dialog.h" line="-1"/>
         <location line="+2"/>
         <source>Active</source>
-        <translation>Activo</translation>
+        <translation>Gaituta</translation>
     </message>
     <message>
         <location line="-152"/>
@@ -2295,7 +2294,7 @@ Octaveren ingurune grafikoa itxi egin behar da.</translation>
         <location line="+191"/>
         <location filename="../src/ui-settings-dialog.h" line="+12"/>
         <source>Background inactive</source>
-        <translation>Fondo inactivo</translation>
+        <translation>Atzeko planoa ezgaituta</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -2307,7 +2306,7 @@ Octaveren ingurune grafikoa itxi egin behar da.</translation>
         <location line="+54"/>
         <location filename="../src/ui-settings-dialog.h" line="+1"/>
         <source>Octave Startup</source>
-        <translation>Inicio de Octave</translation>
+        <translation>Octaveren abiaraztea</translation>
     </message>
     <message>
         <location line="+41"/>
@@ -2315,7 +2314,7 @@ Octaveren ingurune grafikoa itxi egin behar da.</translation>
         <location filename="../src/ui-settings-dialog.h" line="+2"/>
         <location line="+82"/>
         <source>Startup path</source>
-        <translation>Dirección de inicio</translation>
+        <translation>Hasierako helbidea</translation>
     </message>
     <message>
         <location line="-1379"/>
@@ -2323,37 +2322,42 @@ Octaveren ingurune grafikoa itxi egin behar da.</translation>
         <location filename="../src/ui-settings-dialog.h" line="-81"/>
         <location line="+83"/>
         <source>Browse</source>
-        <translation>Explorar</translation>
+        <translation>Arakatu</translation>
     </message>
     <message>
         <location line="-1322"/>
         <location filename="../src/ui-settings-dialog.h" line="-78"/>
         <source>After Column</source>
-        <translation>Después de la columna</translation>
+        <translation>Zutabearen ondoren</translation>
     </message>
     <message>
         <location line="+144"/>
         <location filename="../src/ui-settings-dialog.h" line="+6"/>
         <source>Tab width min.</source>
-        <translation>Anchura mínima del tabulador</translation>
+        <translation>Tabuladorearen gutxieneko zabalera</translation>
     </message>
     <message>
         <location line="+64"/>
         <location filename="../src/ui-settings-dialog.h" line="+1"/>
         <source>max.</source>
-        <translation>máx.</translation>
+        <translation>max.</translation>
     </message>
     <message>
         <location line="+31"/>
         <location filename="../src/ui-settings-dialog.h" line="+2"/>
         <source>This works well for monospaced fonts. The line is drawn at a position based on the width of a space character in the default font. It may not work very well if styles use proportional fonts or if varied font sizes or bold, italic and normal texts are used.</source>
-        <translation>Esto funciona correctamente con fuentes con espaciado fijo. Se dibuja la línea en una posición basada la anchura de un carácter de la fuente por defecto. Esto podría no funcionar correctamente si los estilos utilizan fuentes proporcionales o si se utilizan fuentes de varios tamaños, negrita, cursiva y textos normales.</translation>
+        <translation>Tarte finkodun letra-tipoekin ibiliko da zuzen.
+
+Karaktereen zabaleraren araberako kokapena hartzen du marraztutako lerroa, lehenetsitako
+letra-tipoaren arabera. Baliteke ongi ez funtzionatzea estiloek letra-tipo proportzionalak
+erabiltzen badituzte edo askotariko estiloak nahasten badira: askotariko tamainakoak edo
+letra lodiak, etzanak eta normalak.</translation>
     </message>
     <message>
         <location line="+19"/>
         <location filename="../src/ui-settings-dialog.h" line="+3"/>
         <source>Enable Code Folding</source>
-        <translation>Activar plegado de código</translation>
+        <translation>Gaitu kodea azpiltzea</translation>
     </message>
     <message>
         <location line="+61"/>
@@ -2377,139 +2381,139 @@ Octaveren ingurune grafikoa itxi egin behar da.</translation>
         <location line="+32"/>
         <location filename="../src/ui-settings-dialog.h" line="+2"/>
         <source>Show horizontal scroll bar</source>
-        <translation>Mostrar barra de desplazamiento horizontal</translation>
+        <translation>Erakutsi korritze-barra horizontala</translation>
     </message>
     <message>
         <location line="+68"/>
         <location filename="../src/ui-settings-dialog.h" line="+4"/>
         <source>Indentation</source>
-        <translation>Sangrado</translation>
+        <translation>Koska</translation>
     </message>
     <message>
         <location line="+117"/>
         <location filename="../src/ui-settings-dialog.h" line="+7"/>
         <source>Indentation uses tabs</source>
-        <translation>Sangrado con tabulador</translation>
+        <translation>Koskak tabuladorea darabil</translation>
     </message>
     <message>
         <location line="+38"/>
         <location filename="../src/ui-settings-dialog.h" line="+1"/>
         <source>Auto completion</source>
-        <translation>Completado automático</translation>
+        <translation>Osatze automatikoa</translation>
     </message>
     <message>
         <location line="+101"/>
         <location filename="../src/ui-settings-dialog.h" line="+5"/>
         <source>With Octave builtins</source>
-        <translation>Con funciones internas de Octave</translation>
+        <translation>Octaveren barne funtzioekin</translation>
     </message>
     <message>
         <location line="+10"/>
         <location filename="../src/ui-settings-dialog.h" line="+1"/>
         <source>With Octave functions</source>
-        <translation>Con funciones de Octave</translation>
+        <translation>Octaveren funtzioekin</translation>
     </message>
     <message>
         <location line="+64"/>
         <location filename="../src/ui-settings-dialog.h" line="+9"/>
         <source>Show completion list automatically</source>
-        <translation>Mostrar lista de comandos coincidentes automáticamente</translation>
+        <translation>Erakutsi automatikoki bat datozen komandoen zerrenda</translation>
     </message>
     <message>
         <location line="+31"/>
         <location filename="../src/ui-settings-dialog.h" line="+1"/>
         <source>File handling</source>
-        <translation>Manejo de ficheros</translation>
+        <translation>Fitxategien kudeaketa</translation>
     </message>
     <message>
         <location line="+40"/>
         <location filename="../src/ui-settings-dialog.h" line="+3"/>
         <source>Reload externally changed files without prompt</source>
-        <translation>Recargar los archivos modificados externamente sin consultar</translation>
+        <translation>Birkargatu beste batzuek aldatu dituzten fitxategiak ohartarazpen gabe</translation>
     </message>
     <message>
         <location line="+53"/>
         <location filename="../src/ui-settings-dialog.h" line="+2"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select font, font size (as a difference from the default size), font style (&lt;b&gt;b&lt;/b&gt;old, &lt;b&gt;i&lt;/b&gt;talic, &lt;b&gt;u&lt;/b&gt;nderline), text color, and background color (for the latter, the color magenta (255,0,255) is a placeholder for the default background color).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Selección de fuente, tamaño (como diferencia con respecto al tamaño por defecto), estilo (&lt;b&gt;n&lt;/b&gt;egrita, &lt;b&gt;c&lt;/b&gt;ursiva, &lt;b&gt;s&lt;/b&gt;ubrayado), color y color de fondo (para el último caso, el magenta (255,0,255) es un sustituto para el color de fondo por defecto).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Letra-tipoa aukeratu, tamaina (lehenetsitako tamainarekiko aldea), estiloa (&lt;b&gt;l&lt;/b&gt;odia, &lt;b&gt;e&lt;/b&gt;tzana, &lt;b&gt;a&lt;/b&gt;zpimarratua), testuaren kolorea eta atzeko planoaren kolorea (azken honetan, lehenetsitako kolorearentzat magenta kolorea (255,0,255) kokapen-marka da).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+192"/>
         <location filename="../src/ui-settings-dialog.h" line="+7"/>
         <source>(Changing buffer size clears history)</source>
-        <translation>(Cambiar el tamaño del buffer elimina el historial)</translation>
+        <translation>(Bufferraren tamaina aldatzeak historiala ezabatzen du)</translation>
     </message>
     <message>
         <location line="+28"/>
         <location filename="../src/ui-settings-dialog.h" line="+1"/>
         <source>History buffer Size</source>
-        <translation>Tamaño del buffer para el historial</translation>
+        <translation>Historialarentzako bufferraren tamaina</translation>
     </message>
     <message>
         <location line="+34"/>
         <location filename="../src/ui-settings-dialog.h" line="+2"/>
         <source>Print debug location in terminal window in addition to the marker in the editor</source>
-        <translation>Imprimir la ubicación de depuración en la ventana del terminal además de en el editor</translation>
+        <translation>Erakutsi akasgabetzearen lokalizazioa editorearen leihoaz gain, terminalean.</translation>
     </message>
     <message>
         <location line="+87"/>
         <location filename="../src/ui-settings-dialog.h" line="+3"/>
         <source>Display</source>
-        <translation>Mostrar</translation>
+        <translation>Erakutsi</translation>
     </message>
     <message>
         <location line="+39"/>
         <location filename="../src/ui-settings-dialog.h" line="+5"/>
         <source>Alternating row colors</source>
-        <translation>Alternar colores de filas</translation>
+        <translation>Txandakatu lerroen koloreak</translation>
     </message>
     <message>
         <location line="+12"/>
         <location filename="../src/ui-settings-dialog.h" line="+1"/>
         <source>Behavior</source>
-        <translation>Comportamiento</translation>
+        <translation>Portaera</translation>
     </message>
     <message>
         <location line="+34"/>
         <location filename="../src/ui-settings-dialog.h" line="+3"/>
         <source>Restore last directory of previous session</source>
-        <translation>Restaurar último directorio de la sesión previa</translation>
+        <translation>Leheneratu azken direktorioa aurreko saiotik</translation>
     </message>
     <message>
         <location line="+71"/>
         <location filename="../src/ui-settings-dialog.h" line="+5"/>
         <source>Workspace</source>
-        <translation>Espacio de trabajo</translation>
+        <translation>Lan-eremua</translation>
     </message>
     <message>
         <location line="+42"/>
         <location filename="../src/ui-settings-dialog.h" line="-1"/>
         <source>Hide tool tips</source>
-        <translation>Ocultar sugerencias automáticas</translation>
+        <translation>Ezkutatu argibide automatikoak</translation>
     </message>
     <message>
         <location line="+182"/>
         <location filename="../src/ui-settings-dialog.h" line="+14"/>
         <source>Edit a shortcut by double-clicking in a cell</source>
-        <translation>Los atajos se pueden editar haciendo doble clic en la celda correspondiente</translation>
+        <translation>Lasterbideak dagokion gelaxkan klik bikoitza eginez edita daitezke</translation>
     </message>
     <message>
         <location line="+108"/>
         <location filename="../src/ui-settings-dialog.h" line="+20"/>
         <source>Network</source>
-        <translation>Red</translation>
+        <translation>Sarea</translation>
     </message>
     <message>
         <location line="+23"/>
         <location filename="../src/ui-settings-dialog.h" line="-12"/>
         <source>Allow Octave to connect to the Octave web site to display current news and information</source>
-        <translation>Permitir a Octave la conexión al sitio web para mostrar las últimas noticias e información</translation>
+        <translation>Octaveri baimena eman web-gunera konekta dadin azken berriak eta informazioa eskuratzeko</translation>
     </message>
     <message>
         <location line="+46"/>
         <location filename="../src/ui-settings-dialog.h" line="+8"/>
         <source>Use proxy server</source>
-        <translation>Utilizar servidor &quot;proxy&quot;</translation>
+        <translation>Erabili &quot;proxy&quot; zerbitzaria</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2521,49 +2525,49 @@ Octaveren ingurune grafikoa itxi egin behar da.</translation>
         <location line="-2083"/>
         <location filename="../src/ui-settings-dialog.h" line="-123"/>
         <source>Icon set for dock widgets</source>
-        <translation>Iconos para widget</translation>
+        <translation>Aklopatutako widgetentzako ikonoak</translation>
     </message>
     <message>
         <location line="-48"/>
         <location filename="../src/ui-settings-dialog.h" line="-4"/>
         <source>Language (requires restart)</source>
-        <translation>Lenguaje (requiere reinicio)</translation>
+        <translation>Hizkuntza (berrabiaraztea nahitaezkoa)</translation>
     </message>
     <message>
         <location line="-58"/>
         <location filename="../src/ui-settings-dialog.h" line="-5"/>
         <source>Icon size</source>
-        <translation>Tamaño de icono</translation>
+        <translation>Ikonoaren tamaina</translation>
     </message>
     <message>
         <location line="+1714"/>
         <location filename="../src/ui-settings-dialog.h" line="+100"/>
         <source>Synchronize Octave working directory with file browser</source>
-        <translation>Sincronizar el directorio de trabajo de Octave con el explorador de archivos</translation>
+        <translation>Sinkronizatu Octaveren lan-direktorioa fitxategi-arakatzailearekin</translation>
     </message>
     <message>
         <location line="+132"/>
         <location filename="../src/ui-settings-dialog.h" line="+5"/>
         <source>Colors for variable attributes </source>
-        <translation>Colores para los atributos de variable</translation>
+        <translation>Aldagaien atributuentzako koloreak</translation>
     </message>
     <message>
         <location line="+34"/>
         <location filename="../src/ui-settings-dialog.h" line="+22"/>
         <source>Shortcuts</source>
-        <translation>Atajos de teclado</translation>
+        <translation>Lasterbideak</translation>
     </message>
     <message>
         <location line="+31"/>
         <location filename="../src/ui-settings-dialog.h" line="-18"/>
         <source>Select this option to prevent conflicts with readline shortcuts</source>
-        <translation>Seleccione esta opción para evitar conflictos con los atajos de la línea de comandos</translation>
+        <translation>Hautatu aukera hau komando-lerroko lasterbideekin gatazkak ekiditeko</translation>
     </message>
     <message>
         <location line="+3"/>
         <location filename="../src/ui-settings-dialog.h" line="+2"/>
         <source>Disable global shortcuts when terminal window has focus</source>
-        <translation>Deshabilitar los atajos globales cuando la ventana del terminal se enfoque </translation>
+        <translation>Ezgaitu lasterbide orokorrak terminala martxan dagoenean</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -2571,13 +2575,13 @@ Octaveren ingurune grafikoa itxi egin behar da.</translation>
         <location filename="../src/ui-settings-dialog.h" line="+1"/>
         <location line="+4"/>
         <source>Use this set</source>
-        <translation>Utilice este conjunto</translation>
+        <translation>Erabili multzo hau</translation>
     </message>
     <message>
         <location line="-21"/>
         <location filename="../src/ui-settings-dialog.h" line="-3"/>
         <source>Set 1:</source>
-        <translation>Conjunto 1:</translation>
+        <translation>1. multzoa:</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2585,7 +2589,7 @@ Octaveren ingurune grafikoa itxi egin behar da.</translation>
         <location filename="../src/ui-settings-dialog.h" line="+1"/>
         <location line="+3"/>
         <source>Export</source>
-        <translation>Exportar</translation>
+        <translation>Esportatu</translation>
     </message>
     <message>
         <location line="-30"/>
@@ -2593,43 +2597,43 @@ Octaveren ingurune grafikoa itxi egin behar da.</translation>
         <location filename="../src/ui-settings-dialog.h" line="-2"/>
         <location line="+3"/>
         <source>Import</source>
-        <translation>Importar</translation>
+        <translation>Inportatu</translation>
     </message>
     <message>
         <location line="+7"/>
         <location filename="../src/ui-settings-dialog.h" line="+1"/>
         <source>Set 2:</source>
-        <translation>Conjunto 2:</translation>
+        <translation>2. multzoa:</translation>
     </message>
     <message>
         <location line="+86"/>
         <location filename="../src/ui-settings-dialog.h" line="+7"/>
         <source>Action</source>
-        <translation>Acción</translation>
+        <translation>Ekintza</translation>
     </message>
     <message>
         <location line="+10"/>
         <location filename="../src/ui-settings-dialog.h" line="-1"/>
         <source>Set 1 Default</source>
-        <translation>Conjunto 1 por defecto</translation>
+        <translation>Lehenetsitako 1. multzoa</translation>
     </message>
     <message>
         <location line="+5"/>
         <location filename="../src/ui-settings-dialog.h" line="-1"/>
         <source>Set 1 Actual</source>
-        <translation>Conjunto 1 actual</translation>
+        <translation>Uneko 1. multzoa</translation>
     </message>
     <message>
         <location line="+5"/>
         <location filename="../src/ui-settings-dialog.h" line="-1"/>
         <source>Set 2 Default</source>
-        <translation>Conjunto 2 por defecto</translation>
+        <translation>Lehenetsitako 2. multzoa</translation>
     </message>
     <message>
         <location line="+10"/>
         <location filename="../src/ui-settings-dialog.h" line="-1"/>
         <source>Set 2 Actual</source>
-        <translation>Conjunto 2 actual</translation>
+        <translation>Uneko 2. multzoa</translation>
     </message>
     <message>
         <location line="+68"/>
@@ -2641,91 +2645,91 @@ Octaveren ingurune grafikoa itxi egin behar da.</translation>
         <location line="-16"/>
         <location filename="../src/ui-settings-dialog.h" line="-4"/>
         <source>Hostname:</source>
-        <translation>Nombre del host:</translation>
+        <translation>Ostalari-izena:</translation>
     </message>
     <message>
         <location line="+44"/>
         <location filename="../src/ui-settings-dialog.h" line="+8"/>
         <source>Proxy type:</source>
-        <translation>Tipo de proxy:</translation>
+        <translation>Proxy-mota:</translation>
     </message>
     <message>
         <location line="+10"/>
         <location filename="../src/ui-settings-dialog.h" line="+1"/>
         <source>Port:</source>
-        <translation>Puerto:</translation>
+        <translation>Ataka:</translation>
     </message>
     <message>
         <location line="-27"/>
         <location filename="../src/ui-settings-dialog.h" line="-3"/>
         <source>Username:</source>
-        <translation>Nombre de usuario:</translation>
+        <translation>Erabiltzaile-izena:</translation>
     </message>
     <message>
         <location line="+37"/>
         <location filename="../src/ui-settings-dialog.h" line="+4"/>
         <source>Password:</source>
-        <translation>Contraseña:</translation>
+        <translation>Pasahitza:</translation>
     </message>
     <message>
         <location filename="../src/settings-dialog.cc" line="+77"/>
         <location line="+4"/>
         <location line="+561"/>
         <source>System setting</source>
-        <translation>Configuración del sistema</translation>
+        <translation>Sistemaren hobespena</translation>
     </message>
     <message>
         <location line="-355"/>
         <source>IBeam Cursor</source>
-        <translation>Cursor IBeam</translation>
+        <translation>IBeam kurtsorea</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Block Cursor</source>
-        <translation>Cursor de bloque</translation>
+        <translation>Bloke-kurtsorea</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Underline Cursor</source>
-        <translation>Cursor de subrayado</translation>
+        <translation>Azpimarra-kurtsorea</translation>
     </message>
     <message>
         <location line="+213"/>
         <source>Difference to the default size</source>
-        <translation>Diferencia con el tamaño predeterminado</translation>
+        <translation>Lehenetsitako tamainarekiko aldea</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Background color, pink (255,0,255) means default</source>
-        <translation>Color de fondo. Rosa (255,0,255) significa predeterminado</translation>
+        <translation>Kolore magentak (255,0,255) lehenetsia ezan nahi du</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>b</source>
         <comment>short form for bold</comment>
-        <translation>n</translation>
+        <translation>l</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>i</source>
         <comment>short form for italic</comment>
-        <translation>c</translation>
+        <translation>e</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>u</source>
         <comment>short form for underlined</comment>
-        <translation>s</translation>
+        <translation>a</translation>
     </message>
     <message>
         <location line="+497"/>
         <source>Set Octave Startup Directory</source>
-        <translation>Ajuste del directorio de inicio de Octave</translation>
+        <translation>Octaveren hasiera-direktorioa ezarri</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Set File Browser Startup Directory</source>
-        <translation>Ajuste del directorio de inicio del explorador de archivos</translation>
+        <translation>Fitxategi-kudeatzailearen hasiera-direktorioa ezarri</translation>
     </message>
 </context>
 <context>
@@ -2733,22 +2737,22 @@ Octaveren ingurune grafikoa itxi egin behar da.</translation>
     <message>
         <location filename="../src/welcome-wizard.cc" line="+44"/>
         <source>Community News</source>
-        <translation>Noticias de la comunidad</translation>
+        <translation>Komunitatearen berriak</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Previous</source>
-        <translation>Anterior</translation>
+        <translation>Aurrekoa</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Next</source>
-        <translation>Siguiente</translation>
+        <translation>Hurrengoa</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2759,9 +2763,9 @@ The check will happen at most once each day and news will only be displayed if t
 &lt;a href=&quot;http://octave.org/community-news.html&quot;&gt;http://octave.org/community-news.html&lt;/a&gt;.&lt;/p&gt;
 &lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;body&gt;
-&lt;p&gt;Cuando la GUI se inicia, chequeará el sitio web de Octave para obtener novedades e información acerca de la comunidad.
-Esta verificación se hará una vez cada día como máximo, y las noticias serán desplegadas únicamente si hay algo nuevo desde la última vez que se vieron.&lt;/p&gt;
-&lt;p&gt;También puede revisar las noticias seleccionando &quot;Noticias de la Comunidad&quot; en el menú de ayuda en la GUI o visitando
+&lt;p&gt;Octaveren GUIa abiarazten denean, Octaveren web-gunea txekeatuko du Octaveren komunitatearen gaineko berriak eta informazioa jasotzeko.
+Azterketa hori egunean baten egingo da gehienez, eta aldez aurretik ikusi ez diren berriak baino ez dira erakutsiko.&lt;/p&gt;
+&lt;p&gt;Berriak txekeatu ahalko dira &quot;Komunitatearen berriak&quot; atalean, GUIaren laguntza-menuan edo honakoei bisita eginda
 &lt;a href=&quot;http://octave.org/community-news.html&quot;&gt;http://octave.org/community-news.html&lt;/a&gt;.&lt;/p&gt;
 &lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -2779,7 +2783,7 @@ a:link { text-decoration: underline; color: #0000ff; }
 a:link { text-decoration: underline; color: #0000ff; }
 &lt;/style&gt;
 &lt;head/&gt;&lt;body&gt;
-&lt;p&gt;Permitir la conexión con el sitio web de Octave en el arranque para desplegar novedades e información acerca de la comunidad.&lt;/p&gt;
+&lt;p&gt;Baimendu Octaveren web-gunerako konexioa abiaraztean, Octavek komunitatearen gaineko momentuko berriak eta informazioa bistara ditzan.&lt;/p&gt;
 &lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
@@ -2788,122 +2792,122 @@ a:link { text-decoration: underline; color: #0000ff; }
     <message>
         <location filename="../src/shortcut-manager.cc" line="+109"/>
         <source>New File</source>
-        <translation>Nuevo archivo</translation>
+        <translation>Beste fitxategi bat</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>New Function</source>
-        <translation>Nueva función</translation>
+        <translation>Beste funtzio bat</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>New Figure</source>
-        <translation>Nueva figura</translation>
+        <translation>Beste irudi bat</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Open File</source>
-        <translation>Abrir archivo</translation>
+        <translation>Ireki fitxategia</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Load Workspace</source>
-        <translation>Cargar espacio de trabajo</translation>
+        <translation>Kargatu lan-eremua</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Save Workspace As</source>
-        <translation>Guardar el espacio de trabajo como</translation>
+        <translation>Gorde lan-eremua honela</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+158"/>
         <source>Preferences</source>
-        <translation>Preferencias</translation>
+        <translation>Hobespenak</translation>
     </message>
     <message>
         <location line="-157"/>
         <source>Exit Octave</source>
-        <translation>Salir de Octave</translation>
+        <translation>Octavetik irten</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+84"/>
         <source>Copy</source>
-        <translation>Copiar</translation>
+        <translation>Kopiatu</translation>
     </message>
     <message>
         <location line="-83"/>
         <location line="+85"/>
         <source>Paste</source>
-        <translation>Pegar</translation>
+        <translation>Itsatsi</translation>
     </message>
     <message>
         <location line="-84"/>
         <location line="+80"/>
         <source>Undo</source>
-        <translation>Deshacer</translation>
+        <translation>Desegin</translation>
     </message>
     <message>
         <location line="-79"/>
         <location line="+84"/>
         <source>Select All</source>
-        <translation>Seleccionar todo</translation>
+        <translation>Hautatu dena</translation>
     </message>
     <message>
         <location line="-83"/>
         <source>Clear Clipboard</source>
-        <translation>Limpiar el portapapeles</translation>
+        <translation>Paper-zorroa garbitu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Find in Files</source>
-        <translation>Buscar en archivos</translation>
+        <translation>Fitxategietan bilatu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Clear Command Window</source>
-        <translation>Limpiar la ventana de comandos</translation>
+        <translation>Komandoen leihoa garbitu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Clear Command History</source>
-        <translation>Limpiar el historial de comandos</translation>
+        <translation>Komandoen historiala garbitu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Clear Workspace</source>
-        <translation>Limpiar el espacio de trabajo</translation>
+        <translation>Lan-eremua garbitu</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Step Into</source>
-        <translation>Entrar a</translation>
+        <translation>Sartu hona</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Step Out</source>
-        <translation>Salir</translation>
+        <translation>Irten</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Continue</source>
-        <translation>Continuar</translation>
+        <translation>Jarraitu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Quit Debug Mode</source>
-        <translation>Abandonar el modo de depuración</translation>
+        <translation>Akasgabetze-modutik irten</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Show Command Window</source>
-        <translation>Mostrar la ventana de comandos</translation>
+        <translation>Komandoen leihoa erakutsi</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Show Command History</source>
-        <translation>Mostrar el historial de comandos</translation>
+        <translation>Komandoen historiala erakutsi</translation>
     </message>
     <message>
         <location line="+2"/>
