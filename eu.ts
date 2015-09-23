@@ -3345,7 +3345,7 @@ a:link { text-decoration: underline; color: #0000ff; }
     <message>
         <location line="+5"/>
         <source>Apply the desired shortcut or click on the right button to reset the shortcut to its default.</source>
-        <translation>Ezarri nahi duzun lasterbidea edo eskuin-klik egin lasterbidea lehenetsitako baliora bueltatzeko.</translation>
+        <translation>Nahi duzun lasterbidea ezarri edo eskuin-klik egin lasterbidea lehenetsitako baliora bueltatzeko.</translation>
     </message>
     <message>
         <location line="+7"/>
