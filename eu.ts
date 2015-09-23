@@ -635,12 +635,12 @@ Izen bera duen beste fitxategi bat irekita dago editorean</translation>
     <message>
         <location line="+3"/>
         <source>&amp;Help on Keyword</source>
-        <translation>&amp;Laguntza hitz-gakoekin</translation>
+        <translation>&amp;Laguntza hitz gakoekin</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Documentation on Keyword</source>
-        <translation>&amp;Hitz-gakoen dokumentazioa</translation>
+        <translation>&amp;Hitz gakoen dokumentazioa</translation>
     </message>
     <message>
         <location line="-969"/>
@@ -673,7 +673,7 @@ Izen bera duen beste fitxategi bat irekita dago editorean</translation>
     <message>
         <location filename="../src/m-editor/file-editor-tab.cc" line="+92"/>
         <source>eol:</source>
-        <translation>Lerro-bukaera:</translation>
+        <translation>Lerro-amaiera:</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -766,7 +766,7 @@ fitxategia ezebatu edo izenez aldatu da. Berreskuratu nahi duzu?%2</translation>
     <message>
         <location line="-210"/>
         <source>Line Endings:</source>
-        <translation>Lerro-bukaera:</translation>
+        <translation>Lerro-amaierak:</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -819,7 +819,7 @@ fitxategia ezebatu edo izenez aldatu da. Berreskuratu nahi duzu?%2</translation>
     <message>
         <location line="+24"/>
         <source>Set Octave directory to current browser directory</source>
-        <translation>Octaveren direktorioa fitxategi-kudeatzailearen uneko direktorio egin</translation>
+        <translation>Octaveren direktorioa fitxategi-arakatzailearen uneko direktorio egin</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -903,7 +903,7 @@ fitxategia ezebatu edo izenez aldatu da. Berreskuratu nahi duzu?%2</translation>
     <message>
         <location line="-335"/>
         <source>Activate to open in editor, right click for alternatives</source>
-        <translation>Aktibatu editoren irekitzeko. Egin eskumako klik aukerak bistaratzeko</translation>
+        <translation>Aktibatu editoren irekitzeko. Egin eskuin-klik aukerak bistaratzeko</translation>
     </message>
     <message>
         <location line="+236"/>
@@ -984,7 +984,7 @@ fitxategia ezebatu edo izenez aldatu da. Berreskuratu nahi duzu?%2</translation>
     <message>
         <location line="+151"/>
         <source>Set directory of file browser</source>
-        <translation>Fitxategi-kudeatzailetik direktorioa aukeratu</translation>
+        <translation>Fitxategi-arakatzailetik direktorioa aukeratu</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -2729,7 +2729,7 @@ letra lodiak, etzanak eta normalak.</translation>
     <message>
         <location line="+6"/>
         <source>Set File Browser Startup Directory</source>
-        <translation>Fitxategi-kudeatzailearen hasiera-direktorioa ezarri</translation>
+        <translation>Fitxategi-arakatzailearen hasiera-direktorioa ezarri</translation>
     </message>
 </context>
 <context>
@@ -2902,93 +2902,93 @@ a:link { text-decoration: underline; color: #0000ff; }
     <message>
         <location line="+4"/>
         <source>Show Command Window</source>
-        <translation>Komandoen leihoa erakutsi</translation>
+        <translation>Erakutsi komandoen leihoa</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Show Command History</source>
-        <translation>Komandoen historiala erakutsi</translation>
+        <translation>Erakutsi komandoen historiala</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Show File Browser</source>
-        <translation>Mostrar el explorador de archivos</translation>
+        <translation>Erakutsi fitxategi-arakatzailea</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Show Workspace</source>
-        <translation>Mostrar el espacio de trabajo</translation>
+        <translation>Erakutsi lan-eremua</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Show Editor</source>
-        <translation>Mostrar el editor</translation>
+        <translation>Erakutsi editorea</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Show Documentation</source>
-        <translation>Mostrar la documentación</translation>
+        <translation>Erakutsi dokumentazioa</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Command Window</source>
-        <translation>Ventana de comandos</translation>
+        <translation>Komandoen leihoa</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Command History</source>
-        <translation>Historial de comandos</translation>
+        <translation>Komandoen historiala</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>File Browser</source>
-        <translation>Explorador de archivos</translation>
+        <translation>Fitxategi-arakatzailea</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Workspace</source>
-        <translation>Espacio de trabajo</translation>
+        <translation>Lan-eremua</translation>
     </message>
     <message>
         <location line="+2"/>
         <location line="+216"/>
         <source>Editor</source>
-        <translation>Editor</translation>
+        <translation>Editorea</translation>
     </message>
     <message>
         <location line="-214"/>
         <source>Documentation</source>
-        <translation>Documentación</translation>
+        <translation>Dokumentazioa</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Show Ondisk Documentation</source>
-        <translation>Mostrar la documentación almacenada en disco</translation>
+        <translation>Erakutsi diskoan gordetako dokumentazioa</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Show Online Documentation</source>
-        <translation>Mostrar la documentación en línea</translation>
+        <translation>Erakutsi dokumentazioa linean</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Octave Packages</source>
-        <translation>Paquetes de Octave</translation>
+        <translation>Octaveren paketeak</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Share Code</source>
-        <translation>Compartir código</translation>
+        <translation>Kodea partekatu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Contribute to Octave</source>
-        <translation>Colaborar con Octave</translation>
+        <translation>Octaverekin kolaboratu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Octave Developer Resources</source>
-        <translation>Recursos para el desarrollador de Octave</translation>
+        <translation>Octaveren garatzaileentzako baliabideak</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2998,379 +2998,379 @@ a:link { text-decoration: underline; color: #0000ff; }
     <message>
         <location line="+3"/>
         <source>Release Notes</source>
-        <translation>Notas de la versión</translation>
+        <translation>Bertsioaren oharrak</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Community News</source>
-        <translation>Noticias de la comunidad</translation>
+        <translation>Koumunitatearen berriak</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Edit Function</source>
-        <translation>Editar función</translation>
+        <translation>Funtzioa editatu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Save File</source>
-        <translation>Guardar archivo</translation>
+        <translation>Gorde fitxategia</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Save File As</source>
-        <translation>Guardar figura como</translation>
+        <translation>Gorde fitxategia honela</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation>Itxi</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Close All</source>
-        <translation>Cerrar todo</translation>
+        <translation>Itxi dena</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Print</source>
-        <translation>Imprimir</translation>
+        <translation>Imprimatu</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Redo</source>
-        <translation>Rehacer</translation>
+        <translation>Berregin</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Cut</source>
-        <translation>Cortar</translation>
+        <translation>Ebaki</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Find and Replace</source>
-        <translation>Buscar y reemplazar</translation>
+        <translation>Bilatu eta ordezkatu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Delete to Start of Word</source>
-        <translation>Eliminar hasta el inicio de palabra</translation>
+        <translation>Hitz hasieraraino ezabatu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Delete to End of Word</source>
-        <translation>Eliminar hasta el fin de palabra</translation>
+        <translation>Hitz amaieraraino ezabatu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Delete to Start of Line</source>
-        <translation>Eliminar hasta el inicio de línea</translation>
+        <translation>Lerro hasieraraino ezabatu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Delete to End of Line</source>
-        <translation>Eliminar hasta el final de línea</translation>
+        <translation>Lerro amaieraraino ezabatu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Delete Line</source>
-        <translation>Eliminar línea</translation>
+        <translation>Lerroa ezabatu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Copy Line</source>
-        <translation>Copiar línea</translation>
+        <translation>Lerroa kopiatu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Cut Line</source>
-        <translation>Cortar línea</translation>
+        <translation>Lerroa ebaki</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Duplicate Selection/Line</source>
-        <translation>Duplicar selección/línea</translation>
+        <translation>Bikoiztu aukeraketa/lerroa</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Transpose Line</source>
-        <translation>Intercambiar con línea anterior</translation>
+        <translation>Txandakatu aurreko lerroarekin</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Comment Selection</source>
-        <translation>Comentar la selección</translation>
+        <translation>Aukeraketa iruzkindu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Uncomment Selection</source>
-        <translation>Descomentar la selección</translation>
+        <translation>Aukeraketaren iruzkina kendu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Uppercase Selection</source>
-        <translation>Convertir la selección a mayúsculas</translation>
+        <translation>Jarri aukeratutakoa maiuskulan</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Lowercase Selection</source>
-        <translation>Convertir la selección a minúsculas</translation>
+        <translation>Jarri aukeratutakoa minuskulan</translation>
     </message>
     <message>
         <location line="+4"/>
         <location line="+5"/>
         <source>Indent Selection</source>
-        <translation>Aplicar sangría a la selección</translation>
+        <translation>Aplikatu koska aukeraketari</translation>
     </message>
     <message>
         <location line="-3"/>
         <location line="+5"/>
         <source>Unindent Selection</source>
-        <translation>Reducir sangría a la selección</translation>
+        <translation>Aukeraketari koska kendu</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Goto Line</source>
-        <translation>Ir a la línea</translation>
+        <translation>Lerrora joan</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Move to Matching Brace</source>
-        <translation>Mover el paréntesis/corchete/llave correspondiente</translation>
+        <translation>Mugitu dagokion parentesira, kako zuzenera edo giltzara</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Select to Matching Brace</source>
-        <translation>Seleccionar el paréntesis/corchete/llave correspondiente</translation>
+        <translation>Hautatu dagokion karaktereraino: parentesia, kako zuzena edo giltza</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Toggle Bookmark</source>
-        <translation>Alternar marcador</translation>
+        <translation>Markatzaileak txandatu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Next Bookmark</source>
-        <translation>Siguiente marcador</translation>
+        <translation>Hurrengo markatzailea</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Previous Bookmark</source>
-        <translation>Marcador anterior</translation>
+        <translation>Aurreko markatzailea</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Remove All Bookmark</source>
-        <translation>Eliminar todos los marcadores</translation>
+        <translation>Ezabatu markatzaile guztiak</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Styles Preferences</source>
-        <translation>Preferencias de estilos</translation>
+        <translation>Estiloen hobespenak</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Show Line Numbers</source>
-        <translation>Mostrar numeros de línea</translation>
+        <translation>Erakutsi lerro-zenbakiak</translation>
     </message>
     <message>
         <location line="-145"/>
         <source>Step</source>
-        <translation>Siguiente instrucción</translation>
+        <translation>Hurrengo argibidea</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Reset Default Window Layout</source>
-        <translation>Restablecer el esquema de ventana predeterminado</translation>
+        <translation>Leihoen diseinu lehenetsia berrezarri</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Report Bug</source>
-        <translation>Informar de fallo</translation>
+        <translation>Akatsei buruz informatu</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Close Other Files</source>
-        <translation>Cerrar otros archivos</translation>
+        <translation>Beste fitxategi batzuk itxi</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Show Completion List</source>
-        <translation>Mostrar lista de comandos coincidentes</translation>
+        <translation>Erakutsi bat datozen komandoen zerrenda</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Convert Line Endings to Windows</source>
-        <translation>Convertir fines de línea a Windows</translation>
+        <translation>Lerro-amaierak &quot;Windows&quot;-era aldatu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Convert Line Endings to Unix</source>
-        <translation>Convertir fines de línea a Unix</translation>
+        <translation>Lerro-amaierak &quot;Unix&quot;-era aldatu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Convert Line Endings to Mac</source>
-        <translation>Convertir fines de línea a Mac</translation>
+        <translation>Lerro-amaierak &quot;Mac&quot;-era aldatu</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Show Whitespace Characters</source>
-        <translation>Mostrar espacios en blanco</translation>
+        <translation>Erakutsi zuriuneak</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Show Line Endings</source>
-        <translation>Mostrar fines de línea</translation>
+        <translation>Erakutsi lerro-amaierak</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show Indentation Guides</source>
-        <translation>Mostrar guías de sangría</translation>
+        <translation>Erakutsi koska-erakusleak</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Show Long Line Marker</source>
-        <translation>Mostrar marcador de longitud de línea</translation>
+        <translation>Erakutsi lerro-luzera markatzailea</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Zoom In</source>
-        <translation>Aumentar</translation>
+        <translation>Handitu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Zoom Out</source>
-        <translation>Disminuir</translation>
+        <translation>Txikitu</translation>
     </message>
     <message>
         <location line="+2"/>
         <location line="+3"/>
         <source>Zoom Normal</source>
-        <translation>Zoom normal</translation>
+        <translation>Zoom normala</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Toggle Breakpoint</source>
-        <translation>Alternar puntos de interrupción</translation>
+        <translation>Geldiuneak txandakatu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Next Breakpoint</source>
-        <translation>Siguiente punto de interrupción</translation>
+        <translation>Hurrengo geldiunea</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Previous Breakpoint</source>
-        <translation>Punto de interrupción anterior</translation>
+        <translation>Aurreko geldiunea</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Remove All Breakpoints</source>
-        <translation>Eliminar todos los puntos de interrupción</translation>
+        <translation>Ezabatu geldiune guztiak</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Run File</source>
-        <translation>Ejecutar archivo</translation>
+        <translation>Fitxategia exekutatu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Run Selection</source>
-        <translation>Ejecutar selección</translation>
+        <translation>Aukeraketa exekutatu</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Help on Keyword</source>
-        <translation>Ayuda de palabras clave</translation>
+        <translation>Laguntza hitz gakoekin</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Document on Keyword</source>
-        <translation>Documentación de palabras clave</translation>
+        <translation>Hitz gakoen dokumentazioa</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Main</source>
-        <translation>Principal</translation>
+        <translation>Nagusia</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+23"/>
         <source>File</source>
-        <translation>Archivo</translation>
+        <translation>Fitxategia</translation>
     </message>
     <message>
         <location line="-21"/>
         <location line="+23"/>
         <source>Edit</source>
-        <translation>Editar</translation>
+        <translation>Editatu</translation>
     </message>
     <message>
         <location line="-21"/>
         <location line="+25"/>
         <source>Debug</source>
-        <translation>Depurar</translation>
+        <translation>Akasgabetu</translation>
     </message>
     <message>
         <location line="-23"/>
         <source>Window</source>
-        <translation>Ventana</translation>
+        <translation>Leihoa</translation>
     </message>
     <message>
         <location line="+2"/>
         <location line="+25"/>
         <source>Help</source>
-        <translation>Ayuda</translation>
+        <translation>Laguntza</translation>
     </message>
     <message>
         <location line="-23"/>
         <source>News</source>
-        <translation>Noticias</translation>
+        <translation>Berriak</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>View</source>
-        <translation>Ver</translation>
+        <translation>Ikusi</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Run</source>
-        <translation>Ejecutar</translation>
+        <translation>Exekutatu</translation>
     </message>
     <message>
         <location line="+124"/>
         <source>Enter new Shortcut for Set %1</source>
-        <translation>Introduzca nuevo atajo para el conjunto %1</translation>
+        <translation>Egin beste lasterbide bat %1 multzoarentzat</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Apply the desired shortcut or click on the right button to reset the shortcut to its default.</source>
-        <translation>Aplique el atajo que desee o haga clic en el botón derecho para restablecer el atajo a su valor predeterminado.</translation>
+        <translation>Ezarri nahi duzun lasterbidea edo eskuin-klik egin lasterbidea lehenetsitako baliora bueltatzeko.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Enter shortcut directly by performing it</source>
-        <translation>Introduzca directamente un atajo de teclado</translation>
+        <translation>Sartu lasterbidea</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Actual shortcut</source>
-        <translation>Atajo de teclado actual</translation>
+        <translation>Uneko lasterbidea</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Default shortcut</source>
-        <translation>Atajo de teclado por defecto</translation>
+        <translation>Lehenetsitako lasterbidea</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Set to default</source>
-        <translation>Establecer como por defecto</translation>
+        <translation>Ezarri lehenetsi gisa</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Double Shortcut</source>
-        <translation>Atajo de teclado doble</translation>
+        <translation>Lasterbide bikoitza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3379,32 +3379,32 @@ a:link { text-decoration: underline; color: #0000ff; }
 is already used for the action
   &quot;%2&quot;.
 Do you want to use the shortcut anyhow removing it from the previous action?</source>
-        <translation>El atajo de teclado seleccionado
+        <translation>Aukeratutako
   &quot;%1&quot;
-ya se utiliza para la acción
+lasterbidea erabilita dago honako ekintzarako:
   &quot;%2&quot;.
-¿Desea utilizar el atajo de cualquier modo suprimiendo la acción previamente asignada?</translation>
+Aurrez zehaztutako lasterbidea ezabatuko da. Jarraitu nahi duzu?</translation>
     </message>
     <message>
         <location line="+71"/>
         <source>Import shortcut set %1 from file ...</source>
-        <translation>Importar conjunto de atajos de teclado %1 del archivo ...</translation>
+        <translation>Inportatu %1 lasterbide-multzoa fitxategitik ...</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+6"/>
         <source>Octave Shortcut Files (*.osc);;All Files (*)</source>
-        <translation>Archivo de atajos de teclado de Octave (*.osc);;Todos los archivos (*)</translation>
+        <translation>Octavere lasterbide-fitxategiak (*.osc);;Fitxategi guztiak (*)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Export shortcut set %1 into file ...</source>
-        <translation>Exportar conjunto de atajos de teclado %1 al archivo ...</translation>
+        <translation>Esportatu %1 lasterbide-multzoa fitxategira ...</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Failed to open %1 as octave shortcut file</source>
-        <translation>No se ha podido abrir %1 como archivo de atajos de teclado de Octave</translation>
+        <translation>Ezin da ireki %1 Octaveren lasterbide-multzo fitxategi bezala</translation>
     </message>
 </context>
 <context>
@@ -3412,7 +3412,7 @@ ya se utiliza para la acción
     <message>
         <location filename="../src/terminal-dock-widget.cc" line="+38"/>
         <source>Command Window</source>
-        <translation>Ventana de comandos</translation>
+        <translation>Komandoen leihoa</translation>
     </message>
 </context>
 <context>
@@ -3420,22 +3420,22 @@ ya se utiliza para la acción
     <message>
         <location filename="../src/qtinfo/webinfo.cc" line="+83"/>
         <source>Type here and press &apos;Return&apos; to search</source>
-        <translation>Escriba aquí y pulse la tecla &apos;enter&apos; para buscar</translation>
+        <translation>Idatzi hemen eta sakatu &apos;enter&apos; bilatzeko</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Global search</source>
-        <translation>Búsqueda global</translation>
+        <translation>Bilaketa globala</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Error</source>
-        <translation>Error</translation>
+        <translation>Akatsa</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The info file&lt;p&gt;%1&lt;p&gt;or compressed versions do not exist</source>
-        <translation>El archivo de información &lt;p&gt;%1&lt;p&gt; o la versión comprimida no existen</translation>
+        <translation>&lt;p&gt;%1&lt;p&gt; informazio-fitxategia edo konprimitutako fitxategia ez daude</translation>
     </message>
 </context>
 <context>
@@ -3443,7 +3443,7 @@ ya se utiliza para la acción
     <message>
         <location filename="../src/welcome-wizard.cc" line="+135"/>
         <source>Welcome to GNU Octave</source>
-        <translation>Bienvenido a GNU Octave</translation>
+        <translation>Ongi etorri GNU Octavera</translation>
     </message>
 </context>
 <context>
@@ -3451,38 +3451,38 @@ ya se utiliza para la acción
     <message>
         <location filename="../src/workspace-model.cc" line="-42"/>
         <source>Name</source>
-        <translation>Nombre</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Class</source>
-        <translation>Clase</translation>
+        <translation>Mota</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Dimension</source>
-        <translation>Dimensión</translation>
+        <translation>Dimentsioa</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Value</source>
-        <translation>Valor</translation>
+        <translation>Balioa</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Attribute</source>
-        <translation>Atributo</translation>
+        <translation>Atributua</translation>
     </message>
     <message>
         <location line="+109"/>
         <source>Right click to copy, rename, or display</source>
-        <translation>Clic derecho para copiar, renombrar o mostrar</translation>
+        <translation>Eskuin-klik kopiatzeko, izena aldatzeko edo erakusteko</translation>
     </message>
     <message>
         <location line="+37"/>
         <location line="+2"/>
         <source>complex</source>
-        <translation>complejo</translation>
+        <translation>Konplexua</translation>
     </message>
 </context>
 <context>
@@ -3490,52 +3490,52 @@ ya se utiliza para la acción
     <message>
         <location filename="../src/workspace-view.cc" line="+50"/>
         <source>Workspace</source>
-        <translation>Espacio de trabajo</translation>
+        <translation>Lan-eremua</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>View the variables in the active workspace.</source>
-        <translation>Ver variables en el espacio de trabajo activo.</translation>
+        <translation>Erakutsi aldagaiak lan-eremu aktiboan.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Enter text to filter the workspace</source>
-        <translation>Introduzca texto para filtrar el espacio de trabajo</translation>
+        <translation>Sartu testua lan-eremua iragazteko</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Filter</source>
-        <translation>Filtrar</translation>
+        <translation>Iragazi</translation>
     </message>
     <message>
         <location line="+161"/>
         <source>Copy name</source>
-        <translation>Copiar nombre</translation>
+        <translation>Izena kopiatu</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Copy value</source>
-        <translation>Copiar valor</translation>
+        <translation>Balioa kopiatu</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Rename</source>
-        <translation>Renombrar</translation>
+        <translation>Izena aldatu</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Only top-level symbols may be renamed.</source>
-        <translation>Sólo los símbolos de alto nivel pueden ser renombrados.</translation>
+        <translation>Maila altuko sinboloei soilik alda dakieke izena.</translation>
     </message>
     <message>
         <location line="+132"/>
         <source>View the variables in the active workspace.&lt;br&gt;</source>
-        <translation>Ver las variables del espacio de trabajo activo.&lt;br&gt;</translation>
+        <translation>Erakutsi aldagaiak lan-eremu aktiboan.&lt;br&gt;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Colors for variable attributes:</source>
-        <translation>Colores para los atributos de variable:</translation>
+        <translation>Biltegiratze-mota bakoitzerako koloreak:</translation>
     </message>
 </context>
 </TS>
