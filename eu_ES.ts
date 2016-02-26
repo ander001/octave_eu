@@ -2348,7 +2348,7 @@ Octaveren ingurune grafikoa itxi egin behar da.</translation>
         <source>This works well for monospaced fonts. The line is drawn at a position based on the width of a space character in the default font. It may not work very well if styles use proportional fonts or if varied font sizes or bold, italic and normal texts are used.</source>
         <translation>Tarte finkodun letra-tipoekin ibiliko da zuzen.
 
-Karaktereen zabaleraren araberako kokapena hartzen du marraztutako lerroa, lehenetsitako
+Karaktereen zabaleraren araberako kokapena hartzen du marraztutako lerroak, lehenetsitako
 letra-tipoaren arabera. Baliteke ongi ez funtzionatzea estiloek letra-tipo proportzionalak
 erabiltzen badituzte edo askotariko estiloak nahasten badira: askotariko tamainakoak edo
 letra lodiak, etzanak eta normalak.</translation>
