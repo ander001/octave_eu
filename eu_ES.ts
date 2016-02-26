@@ -1368,7 +1368,7 @@ a:link { text-decoration: underline; color: #0000ff; }
     <message>
         <location line="+8"/>
         <source>Enter text to filter the command history</source>
-        <translation>Testua idatzi komandoen historiala filtratzeko.</translation>
+        <translation>Testua idatzi komandoen historiala filtratzeko</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1438,7 +1438,7 @@ Sakatu &apos;Hurrengoa&apos; konfigurazio-fitxategi bat sortzeko eta Octave abia
         <location line="+732"/>
         <location line="+931"/>
         <source>About Octave</source>
-        <translation>&quot;Octave&quot;-ri &amp;buruz</translation>
+        <translation>&quot;Octave&quot;-ri buruz</translation>
     </message>
     <message>
         <location line="-301"/>
@@ -2008,7 +2008,7 @@ Octaveren ingurune grafikoa itxi egin behar da.</translation>
         <location line="+92"/>
         <location filename="../src/ui-settings-dialog.h" line="+4"/>
         <source>These preferences are applied after any .octaverc startup files.</source>
-        <translation>Hobespenok .octavercse hasierako fitxategiak exekutatu ondoren izango dute eragina</translation>
+        <translation>Hobespenok .octavercse hasierako fitxategiak exekutatu ondoren izango dute eragina.</translation>
     </message>
     <message>
         <location line="+55"/>
@@ -2334,7 +2334,7 @@ Octaveren ingurune grafikoa itxi egin behar da.</translation>
         <location line="+144"/>
         <location filename="../src/ui-settings-dialog.h" line="+6"/>
         <source>Tab width min.</source>
-        <translation>Tabuladorearen gutxieneko zabalera</translation>
+        <translation>Tabuladorearen gutxieneko zabalera.</translation>
     </message>
     <message>
         <location line="+64"/>
@@ -2453,7 +2453,7 @@ letra lodiak, etzanak eta normalak.</translation>
         <location line="+34"/>
         <location filename="../src/ui-settings-dialog.h" line="+2"/>
         <source>Print debug location in terminal window in addition to the marker in the editor</source>
-        <translation>Erakutsi akasgabetzearen lokalizazioa editorearen leihoaz gain, terminalean.</translation>
+        <translation>Erakutsi akasgabetzearen lokalizazioa editorearen leihoaz gain, terminalean</translation>
     </message>
     <message>
         <location line="+87"/>
@@ -2993,7 +2993,7 @@ a:link { text-decoration: underline; color: #0000ff; }
     <message>
         <location line="+2"/>
         <source>About Octave</source>
-        <translation>&quot;Octave&quot;-ri &amp;buruz</translation>
+        <translation>&quot;Octave&quot;-ri buruz</translation>
     </message>
     <message>
         <location line="+3"/>
